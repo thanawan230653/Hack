@@ -9,7 +9,7 @@
 {
 "name": "1",
 "image": "https://dookeela.live/uploads/1685812254.png",
-"url": "https://dookeela.live/",
+"url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
 "referer": "https://dookeela.live/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
 },
