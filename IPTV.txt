@@ -18,6 +18,11 @@
 "url": "https://drive.google.com/uc?id=1jTpQoNKR5Xyzyw_COv4Ov285RR2oGMh0",
 "import": "true"},
 
+{"name": "test1",
+"author": "555",
+"image": "",
+"url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/Link3.txt",
+"import": "true"},
 
 {"name": "Gojek Vx-C",
 "author":"Gojek-Free",
