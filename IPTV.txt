@@ -9,6 +9,15 @@
 "name": "test",
 "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
 "stations": [
+},
+{
+"name": 
+"doo-nang",
+"image": "https://i.postimg.cc/c1b3JrZJ/300.jpg",
+"url": "https://shorturl.asia/5Fe6h",
+"info": "doo-nang",
+"referer": "https://thaidreambox.bayore.net/","embed": "true"},
+},
 {
 "name": "1",
 "image": "https://i.scdn.co/image/ab67616d0000b27329ffcc281cf0a2ee92954fe7",
