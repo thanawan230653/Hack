@@ -1,6 +1,6 @@
 {"name": "TEST BY PAT",
 "author":"ฟรีโว้ย - 16.Aug.2025",
-"image": "https://i.postimg.cc/yYFHfS2C/Gojek-TV-Face-V4-0.jpg",
+"image": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/hom.jpg",
 "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/IPTV.txt",
 "groups": [
 
