@@ -1,98 +1,26 @@
 {
-"name": "Wiseplay Online หนัง+กิฬา",
-"author": "กลุ่มปันใจ ปันสุข ปันสนุก ทุกเรื่องกับดูWiseplay Online สบายใจ สบายตา2",
-"image": "https://img5.pic.in.th/file/secure-sv1/44093910.jpg",
+"name": "TEST BY PAT",
+"author": " BY AT",
+"image": "https://raw.githubusercontent.com/pawarit-sosirikul/ROM/refs/heads/main/539027415_762626393171528_249016171832861354_n.jpg",
 "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/IPTV.txt",
-"stations":  [
+"info": "",
+"groups": [
 
 {
-"name": 
-"Baan-Ball",
-"image": "https://i.postimg.cc/W16wWgq4/244.jpg",
-"url": "https://shorturl.asia/0OSQ9",
-"info": "Baa-Ball",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-
+"name": "1",
+"image": "https://dookeela.live/uploads/1685812254.png",
+"url": "https://github.com/pawarit-sosirikul/ROM/raw/refs/heads/main/%E0%B8%88%E0%B8%B0%E0%B8%97%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%81%E0%B9%87%E0%B8%97%E0%B8%B4%E0%B9%89%E0%B8%87%20-%20OZEEOOS%20(Remix)%20WinzenT%20x%20Lykenz%20x%209AVESIX.mp4",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 {
-     "name": "Dooball66",
-     "image": "https://i.postimg.cc/tT1PjxJW/123.jpg",
-     "url": "https://shorturl.asia/TqabQ",
-"info": "Dooball66",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-     
-    
- {
-     "name": "livesod365",
-     "image": "https://i.postimg.cc/VN2vXHs0/365.jpg",
-     "url": "https://livesod365.co/live/",
-"info": "livesod365",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-
-{
-     "name": "GOAL TH",
-     "image": "https://i.postimg.cc/QtMmWCtd/000-crop123.jpg",
-     "url": "https://shorturl.asia/ht7As",
-"info": "GOAL TH",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-
-{
-     "name": "GOAL DODDY",
-     "image": "https://i.postimg.cc/3R7RL0p3/0000000.jpg",
-     "url": "https://www.goaldaddyth.com/fixture?sport=soccer",
-"info": "GOAL DODDY",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-
-{
-     "name": "STREAMING LIVE",
-     "image": "https://i.postimg.cc/hjRNScMG/LIVE.png",
-     "url": "https://anapress.net/",
-"info": "STREAMING LIVE",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-
-
-{
-     "name": "Livezod.com ดูบอลสด",
-     "image": "https://i.postimg.cc/XqT8RZmJ/300.png",
-     "url": "https://www.livezod.com/ch.php",
-"info": "Livezod.com ดูบอลสด",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-     
-{
-     "name": "Dooballzaa.com ",
-     "image": "https://i.postimg.cc/NMbT8yBV/2.png",
-     "url": "https://www.dooballzaa.com/channel.html",
-"info": "Dooballzaa.com",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-     
- {
-     "name": "TV garden",
-     "image": "https://i.postimg.cc/3RxbhnQN/BALL24-crop.png",
-     "url": "https://tv.garden/",
-"info": "TV garden",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-
-{
-     "name": "INWIPTV",
-     "image": "https://i.postimg.cc/43FK3xhG/BALL24-TV300.png",
-     "url": "https://inwiptv.org/demo.php",
-"info": "INWIPTV",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-         
-     
-{
-"name": 
-"doo-nang",
-"image": "https://i.postimg.cc/c1b3JrZJ/300.jpg",
-"url": "https://shorturl.asia/5Fe6h",
-"info": "doo-nang",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-
-{
-"name": EZMovie",
-"image": "https://i.postimg.cc/GhdXvcRJ/300-crop123.jpg",
-"url":"https://ezmovie.org/categories",
-"info": "EZMovie",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-
+"name": "date test",
+"image": "https://dookeela.live/uploads/1715648168.png",
+"url": "https://dookeela.live/live-tv/skysportsnews",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+}
+]
+}
 ]
 }
