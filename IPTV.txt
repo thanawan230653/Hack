@@ -9,7 +9,7 @@
 {
 "name": "1",
 "image": "https://dookeela.live/uploads/1685812254.png",
-"url": "https://github.com/pawarit-sosirikul/ROM/raw/refs/heads/main/%E0%B8%88%E0%B8%B0%E0%B8%97%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%81%E0%B9%87%E0%B8%97%E0%B8%B4%E0%B9%89%E0%B8%87%20-%20OZEEOOS%20(Remix)%20WinzenT%20x%20Lykenz%20x%209AVESIX.mp4",
+"url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/Link3.txt",
 "referer": "https://dookeela.live/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
 },
