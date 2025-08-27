@@ -1,98 +1,59 @@
-{
-"name": "TEST",
-"author": "ไม่รู้",
-"image": "https://img5.pic.in.th/file/secure-sv1/44093910.jpg",
+{"name": "TEST BY PAT",
+"author":"ฟรีโว้ย - 16.Aug.2025",
+"image": "https://i.postimg.cc/yYFHfS2C/Gojek-TV-Face-V4-0.jpg",
 "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/IPTV.txt",
-"stations":  [
-
-{
-"name": 
-"Baan-Ball",
-"image": "https://i.postimg.cc/W16wWgq4/244.jpg",
-"url": "https://shorturl.asia/0OSQ9",
-"info": "Baa-Ball",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-
-{
-     "name": "Dooball66",
-     "image": "https://i.postimg.cc/tT1PjxJW/123.jpg",
-     "url": "https://shorturl.asia/TqabQ",
-"info": "Dooball66",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-     
-    
- {
-     "name": "livesod365",
-     "image": "https://i.postimg.cc/VN2vXHs0/365.jpg",
-     "url": "https://livesod365.co/live/",
-"info": "livesod365",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-
-{
-     "name": "GOAL TH",
-     "image": "https://i.postimg.cc/QtMmWCtd/000-crop123.jpg",
-     "url": "https://shorturl.asia/ht7As",
-"info": "GOAL TH",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-
-{
-     "name": "GOAL DODDY",
-     "image": "https://i.postimg.cc/3R7RL0p3/0000000.jpg",
-     "url": "https://www.goaldaddyth.com/fixture?sport=soccer",
-"info": "GOAL DODDY",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-
-{
-     "name": "STREAMING LIVE",
-     "image": "https://i.postimg.cc/hjRNScMG/LIVE.png",
-     "url": "https://anapress.net/",
-"info": "STREAMING LIVE",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
+"groups": [
 
 
-{
-     "name": "Livezod.com ดูบอลสด",
-     "image": "https://i.postimg.cc/XqT8RZmJ/300.png",
-     "url": "https://www.livezod.com/ch.php",
-"info": "Livezod.com ดูบอลสด",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-     
-{
-     "name": "Dooballzaa.com ",
-     "image": "https://i.postimg.cc/NMbT8yBV/2.png",
-     "url": "https://www.dooballzaa.com/channel.html",
-"info": "Dooballzaa.com",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-     
- {
-     "name": "TV garden",
-     "image": "https://i.postimg.cc/3RxbhnQN/BALL24-crop.png",
-     "url": "https://tv.garden/",
-"info": "TV garden",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
 
-{
-     "name": "INWIPTV",
-     "image": "https://i.postimg.cc/43FK3xhG/BALL24-TV300.png",
-     "url": "https://inwiptv.org/demo.php",
-"info": "INWIPTV",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
-         
-     
-{
-"name": 
-"doo-nang",
-"image": "https://i.postimg.cc/c1b3JrZJ/300.jpg",
-"url": "https://shorturl.asia/5Fe6h",
-"info": "doo-nang",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
+{"name": "VIP Gojek TV-Free",
+"author":"เก็บรายเดือน-งั้นหนูของแจกนะ",
+"url": "https://tinyurl.com/29wefcew",
+"image": "https://img5.pic.in.th/file/secure-sv1/VIP-GojekTv.png",
+"import": "true"},
 
-{
-"name": EZMovie",
-"image": "https://i.postimg.cc/GhdXvcRJ/300-crop123.jpg",
-"url":"https://ezmovie.org/categories",
-"info": "EZMovie",
-"referer": "https://thaidreambox.bayore.net/","embed": "true"},
+{"name": "Gojek [m3u]",
+"author": "อนันต์-นันยาง2",
+"image": "https://img5.pic.in.th/file/secure-sv1/VIP-GojekTv.png",
+"url": "https://drive.google.com/uc?id=1jTpQoNKR5Xyzyw_COv4Ov285RR2oGMh0",
+"import": "true"},
 
-]
-}
+
+{"name": "Gojek Vx-C",
+"author":"Gojek-Free",
+"image": "https://i.postimg.cc/tJcBnm7P/Gojek-TV-Face-V4-0.gif",
+"url": "https://drive.google.com/uc?id=1DfKaN9vO_R9zbaoCwbbkrV13qkEcv3Re",
+"import": "true"},
+
+{"name": "Gojek TV [AIO]",
+"author": "อนันต์-นันยาง2",
+"image": "https://i.postimg.cc/8cC3p2sG/Gojek-TV-Face-V4-0-AIO.jpg",
+"url": "https://drive.google.com/uc?id=1A_7eCDUBdrs9NIaSAMHCCzjLz8pljOcZ",
+"import": "true"},
+
+{"name": "Gojek V4 = [PL4U]",
+"author":"Gojek TV ดูฟรีไม่มีค่ากาแฟ!",
+"url": "https://bit.ly/GojekC",
+"image": "https://i.postimg.cc/tJcBnm7P/Gojek-TV-Face-V4-0.gif",
+"import": "true"},
+
+
+
+{"name": "*ตาย*-VIP Gojek นักบะญใจบาป 45 บาท",
+"author":"ห้ามขาย แต่เก็บเงินหัวควย!",
+"url": "https://docs.google.com/uc?export=download&id=1mGyq_-RCCiAX9H6_nuw0EX53OomlHI-A",
+"image": "https://img5.pic.in.th/file/secure-sv1/VIP-GojekTv.png",
+"import": "true"},
+
+{"name": "*ตาย*-VIP Gojek TV=นักบุญแจกฟรี...แต่เก็บเงินรายเดือน หัวควย",
+"author":"Gojek TV ห้ามขาย!",
+"url": "https://docs.google.com/uc?export=download&id=1h3LV3rSwXybfMXf4dl5VrfktL2TSAEUK",
+"image": "https://img5.pic.in.th/file/secure-sv1/VIP-GojekTv.png",
+"import": "true"},
+
+]},
+
+
+
+
+
