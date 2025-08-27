@@ -24,6 +24,12 @@
 "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/Link3.txt",
 "import": "true"},
 
+{"name": "test2",
+"author": "555",
+"image": "",
+"url": "https://raw.githubusercontent.com/kuroshibin/Movie/master/Movie",
+"import": "true"},
+
 {"name": "Gojek Vx-C",
 "author":"Gojek-Free",
 "image": "https://i.postimg.cc/tJcBnm7P/Gojek-TV-Face-V4-0.gif",
