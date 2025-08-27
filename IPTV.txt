@@ -1,6 +1,6 @@
 {
-"name": "Wiseplay Online หนัง+กิฬา",
-"author": "กลุ่มปันใจ ปันสุข ปันสนุก ทุกเรื่องกับดูWiseplay Online สบายใจ สบายตา2",
+"name": "TEST",
+"author": "ไม่รู้",
 "image": "https://img5.pic.in.th/file/secure-sv1/44093910.jpg",
 "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/IPTV.txt",
 "stations":  [
