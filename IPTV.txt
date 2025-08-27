@@ -6,6 +6,12 @@
 
 
 
+{"name": "UPDATE",
+"author":"",
+"url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/IPTV.txt",
+"image": "",
+"import": "true"},
+
 {"name": "VIP Gojek TV-Free",
 "author":"เก็บรายเดือน-งั้นหนูของแจกนะ",
 "url": "https://tinyurl.com/29wefcew",
