@@ -2,7 +2,7 @@
 "name": "TEST BY PAT",
 "author": " BY AT",
 "image": "https://raw.githubusercontent.com/pawarit-sosirikul/ROM/refs/heads/main/539027415_762626393171528_249016171832861354_n.jpg",
-"url": "https://raw.githubusercontent.com/pawarit-sosirikul/ROM/refs/heads/main/ARW.txt",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/datetest.txt",
 "info": "",
 "groups": [
 
