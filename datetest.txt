@@ -1,0 +1,30 @@
+{
+"name": "TEST BY PAT",
+"author": " BY AT",
+"image": "https://raw.githubusercontent.com/pawarit-sosirikul/ROM/refs/heads/main/539027415_762626393171528_249016171832861354_n.jpg",
+"url": "https://raw.githubusercontent.com/pawarit-sosirikul/ROM/refs/heads/main/ARW.txt",
+"info": "",
+"groups": [
+
+{
+"name": "test",
+"image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+"stations": [
+
+{
+"name": "1",
+"image": "https://dookeela.live/uploads/1685812254.png",
+"url": "https://docs.google.com/uc?export=download&id=1rXvnCZk4oyUHsn13F6kZ3ziLPxh-FV1Z",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+{
+"name": "date test",
+"image": "https://dookeela.live/uploads/1715648168.png",
+"url": "https://dookeela.live/live-tv/skysportsnews",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+}
+]
+}
+]
+}
