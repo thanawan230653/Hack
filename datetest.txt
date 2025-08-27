@@ -14,7 +14,7 @@
 {
 "name": "1",
 "image": "https://dookeela.live/uploads/1685812254.png",
-"url": "https://docs.google.com/uc?export=download&id=1rXvnCZk4oyUHsn13F6kZ3ziLPxh-FV1Z",
+"url": "https://n9.cl/4uneo",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
 },
 {
