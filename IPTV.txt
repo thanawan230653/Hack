@@ -13,6 +13,15 @@
 "referer": "https://dookeela.live/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
 },
+
+{
+     "name": "STREAMING LIVE",
+     "image": "https://i.postimg.cc/hjRNScMG/LIVE.png",
+     "url": "https://anapress.net/",
+"info": "STREAMING LIVE",
+"referer": "https://thaidreambox.bayore.net/","embed": "true"},
+
+
 {
 "name": "date test",
 "image": "https://dookeela.live/uploads/1715648168.png",
