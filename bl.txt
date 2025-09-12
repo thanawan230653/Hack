@@ -1,0 +1,16 @@
+{"name": "TEST BY PAT",
+"author":"by PAT",
+"image": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/hom.jpg",
+"url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/bl.txt",
+"groups": [
+
+
+
+{"name": "UPDATE",
+"author":"",
+"url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/bl.txt",
+"image": "",
+"import": "true"},
+
+
+]},
