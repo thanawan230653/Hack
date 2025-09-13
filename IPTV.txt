@@ -102,6 +102,11 @@
 "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
 "import": "true"},
 
+{"name": "ต่างประเทศ",
+"author":"",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/222",
+"image": "",
+"import": "true"},
 
 {"name": "Gojek V4 = [PL4U]",
 "author":"Gojek TV ดูฟรีไม่มีค่ากาแฟ!",
@@ -111,13 +116,13 @@
 
 
 
-{"name": "*ตาย*-VIP Gojek นักบะญใจบาป 45 บาท",
+{"name": "Gojek ",
 "author":"ห้ามขาย แต่เก็บเงินหัวควย!",
 "url": "https://docs.google.com/uc?export=download&id=1mGyq_-RCCiAX9H6_nuw0EX53OomlHI-A",
 "image": "https://img5.pic.in.th/file/secure-sv1/VIP-GojekTv.png",
 "import": "true"},
 
-{"name": "*ตาย*-VIP Gojek TV=นักบุญแจกฟรี...แต่เก็บเงินรายเดือน หัวควย",
+{"name": "*ตาย*-VIP Gojek TV",
 "author":"Gojek TV ห้ามขาย!",
 "url": "https://docs.google.com/uc?export=download&id=1h3LV3rSwXybfMXf4dl5VrfktL2TSAEUK",
 "image": "https://img5.pic.in.th/file/secure-sv1/VIP-GojekTv.png",
