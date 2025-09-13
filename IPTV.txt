@@ -79,6 +79,12 @@
 "image": "https://media.istockphoto.com/id/1492909619/photo/3d-render-pink-vintage-television-cartoon-style-isolate-on-white-background-minimal-retro-tv.jpg?s=612x612&w=0&k=20&c=EuEmQobaWLYSWCkcVBSXtSPLGDgxtzjU-kL2L8bvRZ0=",
 "import": "true"},
 
+{"name": "18+ 077",
+"author":"Gojek TV ห้ามขาย!",
+"url": "https://drive.google.com/uc?id=1JpDZ-NpxkQONf9uICD48glRfWyfCK8tF",
+"": "https://i.postimg.cc/3wQbZ61F/09-Gojek-18.png"
+"import": "true"},
+
 {"name": "MONOMAX",
 "author": "555",
 "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
