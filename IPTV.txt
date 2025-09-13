@@ -18,6 +18,12 @@
 "image": "https://cdn-icons-png.flaticon.com/512/4221/4221484.png",
 "import": "true"},
 
+{"name": "อนิเมะ",
+"author":"",
+"url": "https://drive.google.com/uc?id=12fPCO3LiTf_XmVHK_EAldqiBkaEbyKaB",
+"image": "https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-HD-Image.png",
+"import": "true"},
+
 {"name": "ดูบอลฟรีชัวร์",
 "author":"",
 "url": "https://dl.dropboxusercontent.com/scl/fi/osdhnlstn5nq0y0vz1xqb/Doo-Free.txt?rlkey=l5vbthacstlhkvpch8h4y0unc&st=3v6a0m6o&dl=0",
