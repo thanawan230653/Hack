@@ -24,13 +24,13 @@
 "image": "https://img5.pic.in.th/file/secure-sv1/VIP-GojekTv.png",
 "import": "true"},
 
-{"name": "Gojek [m3u]",
+{"name": "ขอมา v1",
 "author": "อนันต์-นันยาง2",
-"image": "https://img5.pic.in.th/file/secure-sv1/VIP-GojekTv.png",
+"image": "",
 "url": "https://drive.google.com/uc?id=1jTpQoNKR5Xyzyw_COv4Ov285RR2oGMh0",
 "import": "true"},
 
-{"name": "test1",
+{"name": "ช่อง TV ซัมซุง",
 "author": "555",
 "image": "",
 "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/Link3.txt",
@@ -48,7 +48,7 @@
 "url": "https://shorturl.asia/TtLbc",
 "import": "true"},
 
-{"name": "test4",
+{"name": "test ไฟล์",
 "author": "555",
 "image": "",
 "url": "https://freenote.biz/raw/wym3efbiri",
@@ -62,7 +62,7 @@
 
 {"name": "MONOMAX",
 "author": "555",
-"image": "https://i.scdn.co/image/ab67616d0000b27329ffcc281cf0a2ee92954fe7",
+"image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
 "url": "https://github.com/waewac/IPTV/raw/refs/heads/main/datetest.txt",
 "import": "true"},
 
@@ -77,6 +77,19 @@
 "image": "https://i.postimg.cc/8cC3p2sG/Gojek-TV-Face-V4-0-AIO.jpg",
 "url": "https://drive.google.com/uc?id=1A_7eCDUBdrs9NIaSAMHCCzjLz8pljOcZ",
 "import": "true"},
+
+{"name": "TV",
+"author":"",
+"url": "http://guflix.streaming-fast.com/wiseplay/guflix/playlist.m3u8",
+"image": "https://cdn-icons-png.flaticon.com/512/4116/4116413.png",
+"import": "true"},
+
+{"name": "MONOMAX V2",
+"author":"",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/mono.txt",
+"image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
+"import": "true"},
+
 
 {"name": "Gojek V4 = [PL4U]",
 "author":"Gojek TV ดูฟรีไม่มีค่ากาแฟ!",
