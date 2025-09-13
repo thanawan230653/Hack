@@ -5,7 +5,7 @@
   "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/mono.txt",
   "stations": [
     {
-      "name": "MONOMAX",
+      "name": "โทษทีที่ดูบ่ได้แต่บอกก่อนเดียวมาอัพเดทให้เรื่อยๆปกติมันจะดูดลิ้งยากแต่รอหน่อยได้แน่นอนแต่ตอนใหนไม่รู้รีเฟสเอาอาจจะอัพเร็วก็เป็นได้ขอบคุณที่รอละกันอิอิ แต่ในโพสมันอีกชุดนึงและมันไม่ฟรีแน่นอนและไม่ขายด้วยทำลงกล่องให้ลูกค้ารอหลุดเอานะอิอิ",
       "url": "https://ballthaitv.com/soccer/doball/ch613/",
       "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
       "info": "",
