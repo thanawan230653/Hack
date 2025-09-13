@@ -38,7 +38,7 @@
 
 {"name": "ขอมา v1",
 "author": "อนันต์-นันยาง2",
-"image": "",
+"image": "https://i.redd.it/5rk1scvji7od1.gif",
 "url": "https://drive.google.com/uc?id=1jTpQoNKR5Xyzyw_COv4Ov285RR2oGMh0",
 "import": "true"},
 
