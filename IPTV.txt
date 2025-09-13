@@ -50,7 +50,7 @@
 
 {"name": "ต่างประเทศ",
 "author":"",
-"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/222",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/222.txt.w3u",
 "image": "",
 "import": "true"},
 
