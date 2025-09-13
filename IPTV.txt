@@ -12,7 +12,7 @@
 "image": "https://cdn-icons-png.flaticon.com/512/189/189686.png",
 "import": "true"},
 
-{"NETFLIX",
+{"name": "NETFLIX",
 "author":"",
 "url": "https://drive.google.com/uc?id=1I7svUxKND0VvPUkFshVehGNZMJxvuQG9",
 "image": "https://cdn-icons-png.flaticon.com/512/4221/4221484.png",
