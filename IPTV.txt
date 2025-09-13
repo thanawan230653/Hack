@@ -54,7 +54,7 @@
 "url": "https://dl.dropboxusercontent.com/scl/fi/56scn5ymctypm7mo0da9w/dookeela2.txt?rlkey=ntlct1i7jzrc6dciy3mmdhxm3&st=tzrpx08q&dl=0&fbclid=IwY2xjawMbe_VleHRuA2FlbQIxMABicmlkETFSSXB4QlRPckhRcjFKdkRxAR74OzFbdEXm4erL-wnari4md-9WQ_eYe6vBNzeFROIgTVYMDxyYQeXI-D7AtA_aem_N6jNQDA7rtfng23bP-7AWg",
 "import": "true"},
 
-{"name": "test6",
+{"name": "MONOMAX",
 "author": "555",
 "image": "https://i.scdn.co/image/ab67616d0000b27329ffcc281cf0a2ee92954fe7",
 "url": "https://github.com/waewac/IPTV/raw/refs/heads/main/datetest.txt",
