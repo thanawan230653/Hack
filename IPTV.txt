@@ -27,7 +27,7 @@
 {"name": "ดูบอลฟรีชัวร์",
 "author":"",
 "url": "https://dl.dropboxusercontent.com/scl/fi/osdhnlstn5nq0y0vz1xqb/Doo-Free.txt?rlkey=l5vbthacstlhkvpch8h4y0unc&st=3v6a0m6o&dl=0",
-"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fjump-kick-kick-kicking-gif-12202703&psig=AOvVaw2Qrf_IO857VqAytV-tG1Sz&ust=1757853494238000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjitNvg1Y8DFQAAAAAdAAAAABAE",
+"image": "https://c.tenor.com/wglUURAjm2IAAAAd/tenor.gif",
 "import": "true"},
 
 {"name": "VIP Gojek TV-Free",
