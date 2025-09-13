@@ -60,6 +60,12 @@
 "image": "",
 "import": "true"},
 
+{"name": "รวมหนัง",
+"author":"",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/MergedPlaylist.m3u8.m3u",
+"image": "",
+"import": "true"},
+
 {"name": "หนังน้อย",
 "author": "555",
 "image": "",
