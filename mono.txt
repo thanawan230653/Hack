@@ -2,7 +2,7 @@
   "name": "ดูบอล MONOMAX",
   "author": "",
   "image": "",
-  "url": "https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/Thai-league",
+  "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/mono.txt",
   "stations": [
     {
       "name": "MONOMAX",
