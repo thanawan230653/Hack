@@ -9,7 +9,13 @@
 {"name": "UPDATE",
 "author":"",
 "url": "https://github.com/waewac/IPTV/raw/refs/heads/main/bl.txt",
-"image": "",
+"image": "https://cdn-icons-png.flaticon.com/512/189/189686.png",
+"import": "true"},
+
+{"NETFLIX",
+"author":"",
+"url": "https://drive.google.com/uc?id=1I7svUxKND0VvPUkFshVehGNZMJxvuQG9",
+"image": "https://cdn-icons-png.flaticon.com/512/4221/4221484.png",
 "import": "true"},
 
 {"name": "VIP Gojek TV-Free",
