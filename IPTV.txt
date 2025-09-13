@@ -1,4 +1,4 @@
-{"name": "TEST BY PAT",
+{"name": "IPTV BY PAT",
 "author":"by PAT",
 "image": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/hom.jpg",
 "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/IPTV.txt",
@@ -54,19 +54,14 @@
 "image": "",
 "import": "true"},
 
-{"name": "test2",
+{"name": "หนังน้อย",
 "author": "555",
 "image": "",
 "url": "https://raw.githubusercontent.com/kuroshibin/Movie/master/Movie",
 "import": "true"},
 
-{"name": "test3",
-"author": "555",
-"image": "",
-"url": "https://shorturl.asia/TtLbc",
-"import": "true"},
 
-{"name": "test ไฟล์",
+{"name": "ปัญสุข",
 "author": "555",
 "image": "",
 "url": "https://freenote.biz/raw/wym3efbiri",
@@ -76,6 +71,12 @@
 "author": "555",
 "image": "",
 "url": "https://dl.dropboxusercontent.com/scl/fi/56scn5ymctypm7mo0da9w/dookeela2.txt?rlkey=ntlct1i7jzrc6dciy3mmdhxm3&st=tzrpx08q&dl=0&fbclid=IwY2xjawMbe_VleHRuA2FlbQIxMABicmlkETFSSXB4QlRPckhRcjFKdkRxAR74OzFbdEXm4erL-wnari4md-9WQ_eYe6vBNzeFROIgTVYMDxyYQeXI-D7AtA_aem_N6jNQDA7rtfng23bP-7AWg",
+"import": "true"},
+
+{"name": "PinkTV",
+"author":"",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/pink",
+"image": "https://media.istockphoto.com/id/1492909619/photo/3d-render-pink-vintage-television-cartoon-style-isolate-on-white-background-minimal-retro-tv.jpg?s=612x612&w=0&k=20&c=EuEmQobaWLYSWCkcVBSXtSPLGDgxtzjU-kL2L8bvRZ0=",
 "import": "true"},
 
 {"name": "MONOMAX",
