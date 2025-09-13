@@ -60,6 +60,11 @@
 "url": "https://raw.githubusercontent.com/kuroshibin/Movie/master/Movie",
 "import": "true"},
 
+{"name": "18+ 077",
+"author":"Gojek TV ห้ามขาย!",
+"url": "https://drive.google.com/uc?id=1JpDZ-NpxkQONf9uICD48glRfWyfCK8tF",
+"image": "https://i.postimg.cc/3wQbZ61F/09-Gojek-18.png",
+"import": "true"},
 
 {"name": "ปัญสุข",
 "author": "555",
