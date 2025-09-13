@@ -30,7 +30,7 @@
 "image": "https://c.tenor.com/wglUURAjm2IAAAAd/tenor.gif",
 "import": "true"},
 
-{"name": "VIP Gojek TV-Free",
+{"name": "Gojek TV",
 "author":"เก็บรายเดือน-งั้นหนูของแจกนะ",
 "url": "https://tinyurl.com/29wefcew",
 "image": "https://img5.pic.in.th/file/secure-sv1/VIP-GojekTv.png",
