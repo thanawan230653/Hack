@@ -48,6 +48,12 @@
 "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/Link3.txt",
 "import": "true"},
 
+{"name": "ต่างประเทศ",
+"author":"",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/222",
+"image": "",
+"import": "true"},
+
 {"name": "test2",
 "author": "555",
 "image": "",
