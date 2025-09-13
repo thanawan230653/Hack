@@ -1,0 +1,32 @@
+{
+  "name": "ดูบอล MONOMAX",
+  "author": "",
+  "image": "",
+  "url": "https://raw.githubusercontent.com/dooball69services/WISEPLAY/refs/heads/main/Thai-league",
+  "stations": [
+    {
+      "name": "MONOMAX",
+      "url": "https://ballthaitv.com/soccer/doball/ch613/",
+      "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
+      "info": "",
+      "referer": "https://ballthaitv.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "MONOMAX",
+      "url": "https://football360.info/doball/ch613/",
+      "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
+      "info": "",
+      "referer": "https://football360.info/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "MONOMAX",
+      "url": "https://dookeela.live/events/event/6071",
+      "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
+      "info": "",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+    },
+  ]
+},
