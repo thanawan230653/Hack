@@ -1,6 +1,6 @@
 {
   "name": "ดูบอล MONOMAX",
-  "author": "",
+  "author": "เดียวมาอัพเดทให้นะพอดีในโพสท์มันคนละชุดกันเอามาลงให้ลูกค้าเก่า ",
   "image": "",
   "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/mono.txt",
   "stations": [
