@@ -5,24 +5,32 @@
   "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/mono.txt",
   "stations": [
     {
-      "name": "โทษทีที่ดูบ่ได้แต่บอกก่อนเดียวมาอัพเดทให้เรื่อยๆปกติมันจะดูดลิ้งยากแต่รอหน่อยได้แน่นอนแต่ตอนใหนไม่รู้รีเฟสเอาอาจจะอัพเร็วก็เป็นได้ขอบคุณที่รอละกันอิอิ แต่ในโพสมันอีกชุดนึงและมันไม่ฟรีแน่นอนและไม่ขายด้วยทำลงกล่องให้ลูกค้ารอหลุดเอานะอิอิ",
-      "url": "https://ballthaitv.com/soccer/doball/ch613/",
+      "name": "MONO1",
+      "url": "https://dookeela2.live/live-tv/monomax1",
       "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
       "info": "",
       "referer": "https://ballthaitv.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
     },
     {
-      "name": "MONOMAX",
-      "url": "https://football360.info/doball/ch613/",
+      "name": "MONOMAX 2",
+      "url": "https://dookeela2.live/live-tv/dklsport1",
       "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
       "info": "",
       "referer": "https://football360.info/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
     },
     {
+      "name": "AIS-1",
+      "url": "https://dookeela2.live/live-tv/monomax3",
+      "image": "https://dookeela2.live/uploads/1755828002.png",
+      "info": "",
+      "referer": "https://dookeela.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+    },
+    {
       "name": "MONOMAX",
-      "url": "https://dookeela.live/events/event/6071",
+      "url": "https://dookeela2.live/live-tv/monomax3",
       "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
       "info": "",
       "referer": "https://dookeela.live/",
