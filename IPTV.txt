@@ -129,7 +129,7 @@
 {"name": "ต่างประเทศ",
 "author":"",
 "url": "https://github.com/waewac/IPTV/raw/refs/heads/main/222",
-"image": "",
+"image": "https://assets.brandinside.asia/uploads/2024/01/Lufthansa-Group-A220s.jpg",
 "import": "true"},
 
 {"name": "Gojek V4 = [PL4U]",
