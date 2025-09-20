@@ -69,12 +69,12 @@
 {"name": "รวมหนัง",
 "author":"",
 "url": "https://github.com/waewac/IPTV/raw/refs/heads/main/MergedPlaylist.m3u8.m3u",
-"image": "",
+"image": "https://hdmall.co.th/blog/wp-content/uploads/2024/07/what-is-a-mitragynine-leaf.jpg.webp",
 "import": "true"},
 
 {"name": "หนังน้อย",
 "author": "555",
-"image": "",
+"image": "https://img.wongnai.com/p/1920x0/2022/02/07/f83df9718cf649e887b8668079e51fae.jpg",
 "url": "https://raw.githubusercontent.com/kuroshibin/Movie/master/Movie",
 "import": "true"},
 
@@ -86,13 +86,13 @@
 
 {"name": "ปัญสุข",
 "author": "555",
-"image": "",
+"image": "https://panleebakery.com/wp-content/uploads/2024/10/E%E0%B8%9B%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%96%E0%B8%A7_1.webp",
 "url": "https://freenote.biz/raw/wym3efbiri",
 "import": "true"},
 
 {"name": "dookeela",
 "author": "555",
-"image": "",
+"image": "https://dookeela2.live/images/logo.png",
 "url": "https://dl.dropboxusercontent.com/scl/fi/56scn5ymctypm7mo0da9w/dookeela2.txt?rlkey=ntlct1i7jzrc6dciy3mmdhxm3&st=tzrpx08q&dl=0&fbclid=IwY2xjawMbe_VleHRuA2FlbQIxMABicmlkETFSSXB4QlRPckhRcjFKdkRxAR74OzFbdEXm4erL-wnari4md-9WQ_eYe6vBNzeFROIgTVYMDxyYQeXI-D7AtA_aem_N6jNQDA7rtfng23bP-7AWg",
 "import": "true"},
 
