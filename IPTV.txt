@@ -56,12 +56,12 @@
 
 {"name": "ช่อง TV ซัมซุง",
 "author": "555",
-"image": "",
+"image": "https://down-th.img.susercontent.com/file/19af1909d26947c2b4724b5725bc5f1c",
 "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/Link3.txt",
 "import": "true"},
 
 {"name": "ต่างประเทศ",
-"author":"",
+"author":"https://assets.brandinside.asia/uploads/2024/01/Lufthansa-Group-A220s.jpg",
 "url": "https://github.com/waewac/IPTV/raw/refs/heads/main/222.txt.w3u",
 "image": "",
 "import": "true"},
