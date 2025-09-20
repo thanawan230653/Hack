@@ -1,4 +1,4 @@
-{"name": "IPTV BY PAT",
+{"name": "Super IPTV",
 "author":"by PAT",
 "image": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/hom.jpg",
 "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/IPTV.txt",
