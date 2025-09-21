@@ -18,6 +18,12 @@
 "image": "https://linktr.ee/og/image/waewac.jpg",
 "import": "true"},
 
+{"name": "TEST ก่อนใช้จริง",
+"author":"",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/test%20%E0%B8%AD%E0%B8%B4%E0%B8%AD%E0%B8%B4",
+"image": "https://samitivejchinatown.com/upload/album/album/pic-20232308-1692757626-798-127.png",
+"import": "true"},
+
 {"name": "NETFLIX",
 "author":"",
 "url": "https://drive.google.com/uc?id=1I7svUxKND0VvPUkFshVehGNZMJxvuQG9",
