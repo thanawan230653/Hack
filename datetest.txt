@@ -1,34 +1,53 @@
-{
-"name": "TEST BY PAT",
-"author": " BY AT",
-"image": "https://raw.githubusercontent.com/pawarit-sosirikul/ROM/refs/heads/main/539027415_762626393171528_249016171832861354_n.jpg",
-"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/datetest.txt",
-"info": "",
-"groups": [
+ {
 
-{
-"name": "test",
-"image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+"name": "ช่องกีฬาไทย",
+"author": "MIA IPTV ™ ",
+"image": "https://drive.google.com/uc?export=download&id=11oSz3vqscFkW4kU_aQqlINRJdyeA6yco",
+ "info": "Copyright by MIA IPTV ™ ",
 "stations": [
 
+
+
+
 {
-"name": "MONO2 V2",
-"image": "https://dookeela.live/uploads/1685812254.png",
-"url": "https://142.91.102.235/7c37babd-95a3-4cbc-aeee-c150e896aa7b.html",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+  "name": "MONOMAX1 ",
+  "image": "https://drive.google.com/uc?export=download&id=17X-Yfsk577ML0CjS88rUDIqaWwOdzzYQ",
+  "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax1.m3u8",
+  "referer": "https://github.com/",
+  "info": "MIA IPTV ™",
+  "playInNatPlayer": "true"
 },
+
+
+
 {
-"name": "MONO2",
-"image": "https://dookeela.live/uploads/1685812254.png",
-"url": "https://142.91.102.235/7c37babd-95a3-4cbc-aeee-c150e896aa7b.html",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
-},
-{
-"name": "date test",
-"image": "https://dookeela.live/uploads/1715648168.png",
-"url": "https://142.91.102.235/7c37babd-95a3-4cbc-aeee-c150e896aa7b.html"
-}
-]
-}
-]
-}
+  "name": "MONOMAX1 ",
+  "image": "https://drive.google.com/uc?export=download&id=17X-Yfsk577ML0CjS88rUDIqaWwOdzzYQ",
+  "url": "https://tamfan46.github.io/MIA-IPTV/channels/ch-monomax1.html",
+  "referer": "https://github.com/",
+   "info": "MIA IPTV ™",
+   "embed": "true"
+  },
+    
+
+
+	
+
+
+
+]},
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+  	<title>MIA IPTV</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="MIA IPTV"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://drive.google.com/uc?export=download&id=11oSz3vqscFkW4kU_aQqlINRJdyeA6yco"></h2>
+</center>
+</body>
+</html>
