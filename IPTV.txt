@@ -1,5 +1,5 @@
-{"name": "Super IPTV",
-"author":"by PAT",
+{"name": "GIFT IPTV By PAT",
+"author":"By PAT ลิ้งทำมาตอบสนองความเป็นส่วนตัวไม่ได้แจก",
 "image": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/hom.jpg",
 "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/IPTV.txt",
 "groups": [
