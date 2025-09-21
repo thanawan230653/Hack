@@ -144,6 +144,12 @@
 "image": "https://assets.brandinside.asia/uploads/2024/01/Lufthansa-Group-A220s.jpg",
 "import": "true"},
 
+{"name": "พี่แมนจ๋า",
+"author":"",
+"url": "https://drive.google.com/uc?export=download&id=1hRrRGYwUu8gGVF7pp0DxiuEtakgWjCud",
+"image": "https://drive.google.com/uc?export=download&id=1Pb_5m_MzYWdmxOejKV9yBgzmGWdiG7NB",
+"import": "true"},
+
 {"name": "ช่องMONO พรีเมียร์ลีก",
 "author":"",
 "url": "https://drive.google.com/uc?id=1UuqXKq74qzdJ7dO4UBZJ36j84R59Myhn",
@@ -171,12 +177,6 @@
 {"name": " Sport-056",
 "author":"Gojek TV ห้ามขาย!",
 "url": "https://drive.google.com/uc?id=1_bYSMxcvW8yM7aURBSVGYWcgEj5sIppN",
-"image": "",
-"import": "true"},
-
-{"name": "Digital-022",
-"author":"Gojek TV ห้ามขาย!",
-"url": "https://drive.google.com/uc?id=19IYi1OzhIeRttF9-I_8nizOyCYB2fq4F",
 "image": "",
 "import": "true"},
 
@@ -215,12 +215,6 @@
 "url": "https://drive.google.com/uc?id=1o2yf7wXztDoaU1mKShrQAhZ0R_l41jGP",
 "image": "",
 "import": "true"},
-
-{"name": "ข่าว-022",
-"author":"Gojek TV ห้ามขาย!",
-"url": "https://drive.google.com/uc?id=1kfWt7m5dUO5MN_rHi8fp9QGY9edCRUb5",
-"image": "",
-"stations": []},
 
 {"name": "วิทยุ-030",
 "author":"Gojek TV ห้ามขาย!",
