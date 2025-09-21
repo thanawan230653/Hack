@@ -105,7 +105,7 @@
 {"name": "MONOMAX",
 "author": "555",
 "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
-"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/datetest.txt",
+"url": "https://drive.google.com/uc?id=1EvPTgTtzc4Lr6T94CYxkcWomUtvVqsIY",
 "import": "true"},
 
 {"name": "Gojek Vx-C",
