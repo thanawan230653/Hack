@@ -25,7 +25,7 @@
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5KVr1E3UvaUR8kkQxUdu3YzWMfOSixiSbZg&s",
   "url": "https://linktr.ee/waewac",
   "referer": "https://github.com/",
-   "info": "MIA IPTV ™",
+   "info": " ™",
    "embed": "true"
   },
     
