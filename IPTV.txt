@@ -12,12 +12,6 @@
 "image": "https://cdn-icons-png.flaticon.com/512/189/189686.png",
 "import": "true"},
 
-{"name": "เครดิตคนทำ",
-"author":"",
-"url": "https://linktr.ee/waewac",
-"image": "https://linktr.ee/og/image/waewac.jpg",
-"embed": "true"},
-
 {"name": "NETFLIX",
 "author":"",
 "url": "https://drive.google.com/uc?id=1I7svUxKND0VvPUkFshVehGNZMJxvuQG9",
