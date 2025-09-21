@@ -26,7 +26,7 @@
 
 {"name": "พ่อค้าสายฟรีห้ามพลาด",
 "author":"",
-"url": "https://drive.google.com/uc?id=1I7svUxKND0VvPUkFshVehGNZMJxvuQG9",
+"url": "https://github.com/waewac/DATE/raw/refs/heads/main/0nd1ufen6m.w3u",
 "image": "https://github.com/waewac/DATE/raw/refs/heads/main/0nd1ufen6m.w3u",
 "import": "true"},
 
