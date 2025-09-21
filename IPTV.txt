@@ -12,7 +12,7 @@
 "image": "https://cdn-icons-png.flaticon.com/512/189/189686.png",
 "import": "true"},
 
-  {"name": "ผู้ทำ",
+{"name": "ผู้ทำ",
 "author":"",
 "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/datetest.txt",
 "image": "https://linktr.ee/og/image/waewac.jpg",
