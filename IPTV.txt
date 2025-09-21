@@ -1,5 +1,5 @@
 {"name": "IPTV By PAT",
-"author":"By PAT ลิ้งทำมาตอบสนองความเป็นส่วนตัวไม่ได้แจก",
+"author":"UPDATE 21/9/68 20:08",
 "image": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/hom.jpg",
 "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/IPTV.txt",
 "groups": [
