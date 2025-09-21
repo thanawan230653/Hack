@@ -87,7 +87,7 @@
 {"name": "ต่างประเทศ",
 "author":"https://assets.brandinside.asia/uploads/2024/01/Lufthansa-Group-A220s.jpg",
 "url": "https://github.com/waewac/IPTV/raw/refs/heads/main/222.txt.w3u",
-"image": "",
+"image": "https://assets.brandinside.asia/uploads/2024/01/Lufthansa-Group-A220s.jpg",
 "import": "true"},
 
 {"name": "รวมหนัง",
@@ -142,12 +142,6 @@
 "author": "อนันต์-นันยาง2",
 "image": "https://i.postimg.cc/8cC3p2sG/Gojek-TV-Face-V4-0-AIO.jpg",
 "url": "https://drive.google.com/uc?id=1A_7eCDUBdrs9NIaSAMHCCzjLz8pljOcZ",
-"import": "true"},
-
-{"name": "ต่างประเทศ",
-"author":"",
-"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/222",
-"image": "https://assets.brandinside.asia/uploads/2024/01/Lufthansa-Group-A220s.jpg",
 "import": "true"},
 
 {"name": "พี่แมนจ๋า",
