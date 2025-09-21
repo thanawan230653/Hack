@@ -144,6 +144,24 @@
 "image": "https://assets.brandinside.asia/uploads/2024/01/Lufthansa-Group-A220s.jpg",
 "import": "true"},
 
+{"name": "ช่องMONO พรีเมียร์ลีก",
+"author":"",
+"url": "https://drive.google.com/uc?id=1UuqXKq74qzdJ7dO4UBZJ36j84R59Myhn",
+"image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
+"import": "true"},
+
+{"name": "ช่องไทยลีก",
+"author":"",
+"url": "https://drive.google.com/uc?id=1_lAn3rZwBpM4k55Igc8Q4DxYWa0CHX4B",
+"image": "",
+"import": "true"},
+
+{"name": "ช่อง บาสเกตบอล",
+"author":"",
+"url": "https://drive.google.com/uc?id=1Mp0jOCObEAfxsu8AZka09r_JZo2RqjKR",
+"image": "",
+"import": "true"},
+
 {"name": "Gojek V4 = [PL4U]",
 "author":"Gojek TV ดูฟรีไม่มีค่ากาแฟ!",
 "url": "https://bit.ly/GojekC",
