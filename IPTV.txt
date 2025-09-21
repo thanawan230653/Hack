@@ -132,12 +132,6 @@
 "url": "https://drive.google.com/uc?id=1A_7eCDUBdrs9NIaSAMHCCzjLz8pljOcZ",
 "import": "true"},
 
-{"name": "MONOMAX V2",
-"author":"",
-"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/mono.txt",
-"image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
-"import": "true"},
-
 {"name": "ต่างประเทศ",
 "author":"",
 "url": "https://github.com/waewac/IPTV/raw/refs/heads/main/222",
