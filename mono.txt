@@ -14,7 +14,7 @@
     },
     {
       "name": "MONOMAX 2",
-      "url": "https://github.com/tamfan46/MIAdata/raw/refs/heads/main/mono66/Monomax2.m3u8",
+      "url": "https://github.com/tamfan46/MIAdata/raw/refs/heads/main/mono66/Monomax2.m3u8,
       "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
       "info": "",
       "referer": "https://football360.info/",
@@ -36,37 +36,1767 @@
       "referer": "https://dookeela.live/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
     },
-    {
-      "name": "MONOMAX5",
-      "url": "https://github.com/tamfan46/MIAdata/raw/refs/heads/main/mono66/Monomax5.m3u8",
-      "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
-      "info": "",
-      "referer": "https://dookeela.live/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+{
+     "name": "Monomax 1",
+     "image": "https://cdn.imgchest.com/files/7kzcaw8mle7.png",
+    "url": "https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
+
+{
+"name":"Monomax 1",
+"image":"https://cdn.imgchest.com/files/7kzcaw8mle7.png",
+"url": "https://cdn1.googlecdn.live/4k/monomax1/chunks.m3u8",
+"referer": "https://footballsod.live/",
+"info":"","playInNatPlayer": "true"
+},
+
+{"name":"Monomax 1",
+"image":"https://cdn.imgchest.com/files/7kzcaw8mle7.png",
+"url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/monoplus.m3u8",
+  "referer": "https://github.com/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"
+},
+
+
+{
+"name":"Monomax 1",
+"image":"https://cdn.imgchest.com/files/7kzcaw8mle7.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"
+},
+
+
+
+{
+"name":"Monomax 2",
+"image":"https://cdn.imgchest.com/files/y2pckda8b37.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Monomax 2",
+"image":"https://cdn.imgchest.com/files/y2pckda8b37.png",
+ "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax2.m3u8",
+  "referer": "https://github.com/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Monomax 2",
+"image":"https://cdn.imgchest.com/files/y2pckda8b37.png",
+ "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/monoplus2.m3u8",
+    "referer": "https://warpdooball.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"
+},
+
+
+
+{
+"name":"Monomax 3",
+"image":"https://cdn.imgchest.com/files/7lxcpr3obw7.png",
+ "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax3.m3u8",
+    "referer": "https://warpdooball.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Monomax 3",
+"image":"https://cdn.imgchest.com/files/7lxcpr3obw7.png",
+  "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/mono66/monomax3.m3u8",
+    "referer": "https://www.88-hd.com/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Monomax 3",
+"image":"https://cdn.imgchest.com/files/7lxcpr3obw7.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/ais-monomax-3/chunks.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Monomax 4",
+"image":"https://cdn.imgchest.com/files/4jdcv3zqpm4.png",
+ "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax4.m3u8",
+    "referer": "https://www.livezod.com/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Monomax 4",
+"image":"https://cdn.imgchest.com/files/4jdcv3zqpm4.png",
+"url": "https://goal-th.com/ªèÍ§ÃÒÂ¡ÒÃ·ÕÇÕ/?id=608&tv=Monomax4âÁâ¹áÁ¡«ì4",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"
+},
+
+{
+"name":"Monomax 4",
+"image":"https://cdn.imgchest.com/files/4jdcv3zqpm4.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/ais-monomax-4/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"
+},
+
+ {
+    "name": "MONOMAX 5",
+    "image": "https://img2.pic.in.th/pic/mononmax-Sport.jpg",
+    "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax5.m3u8",
+    "referer": "https://github.com/",
+    "info": "MIA IPTV ™",
+    "playInNatPlayer": "true"
+  },
+
+  {
+    "name": "MONOMAX 5",
+    "image": "https://img2.pic.in.th/pic/mononmax-Sport.jpg",
+    "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/mono66/monomax5.m3u8",
+    "referer": "https://github.com/",
+    "info": "MIA IPTV ™",
+    "playInNatPlayer": "true"
+  },
+
+  {
+    "name": "MONOMAX 5",
+    "image": "https://img2.pic.in.th/pic/mononmax-Sport.jpg",
+    "url": "https://cdn1.googlecdnforstreaming.live/live/monomax-5/chunks.m3u8",
+    "referer": "https://warpdooball.net/",
+    "info": "MIA IPTV ™",
+    "playInNatPlayer": "true"
+  },
+
+  {
+    "name": "MONOMAX 6",
+    "image": "https://img2.pic.in.th/pic/mononmax-Sport.jpg",
+    "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax6.m3u8",
+    "referer": "https://github.com/",
+    "info": "MIA IPTV ™",
+    "playInNatPlayer": "true"
+  },
+
+  {
+    "name": "MONOMAX 6",
+    "image": "https://img2.pic.in.th/pic/mononmax-Sport.jpg",
+    "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/mono66/monomax6.m3u8",
+    "referer": "https://github.com/",
+    "info": "MIA IPTV ™",
+    "playInNatPlayer": "true"
+  },
+
+  {
+    "name": "MONOMAX 7",
+    "image": "https://img2.pic.in.th/pic/mononmax-Sport.jpg",
+    "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax7.m3u8",
+    "referer": "https://github.com/",
+    "info": "MIA IPTV ™",
+    "playInNatPlayer": "true"
+  },
+
+  {
+    "name": "MONOMAX 7",
+    "image": "https://img2.pic.in.th/pic/mononmax-Sport.jpg",
+    "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/mono66/monomax7.m3u8",
+    "referer": "https://github.com/",
+    "info": "MIA IPTV ™",
+    "playInNatPlayer": "true"
+  },
+
+  {
+    "name": "MONOMAX 8",
+    "image": "https://img2.pic.in.th/pic/mononmax-Sport.jpg",
+    "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax8.m3u8",
+    "referer": "https://github.com/",
+    "info": "MIA IPTV ™",
+    "playInNatPlayer": "true"
+  },
+
+  {
+    "name": "MONOMAX 8",
+    "image": "https://img2.pic.in.th/pic/mononmax-Sport.jpg",
+    "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/mono66/monomax8.m3u8",
+    "referer": "https://github.com/",
+    "info": "MIA IPTV ™",
+    "playInNatPlayer": "true"
+  },
+
+  {
+    "name": "MONOMAX 9",
+    "image": "https://img2.pic.in.th/pic/mononmax-Sport.jpg",
+    "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax9.m3u8",
+    "referer": "https://github.com/",
+    "info": "MIA IPTV ™",
+    "playInNatPlayer": "true"
+  },
+
+  {
+    "name": "MONOMAX 9",
+    "image": "https://img2.pic.in.th/pic/mononmax-Sport.jpg",
+    "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/mono66/monomax9.m3u8",
+    "referer": "https://github.com/",
+    "info": "MIA IPTV ™",
+    "playInNatPlayer": "true"
+  },
+
+{
+"name":"Astro Premier1",
+"image":"https://i.imgur.com/QRjkdNF.png",
+"url": "https://goal-th.com/ªèÍ§ÃÒÂ¡ÒÃ·ÕÇÕ/?id=537&tv=AstroPremierLeague",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"
+},
+
+{"name":"Astro Premier1",
+"image":"https://i.imgur.com/QRjkdNF.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186387&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Astro Premier2",
+"image":"https://i.imgur.com/8aaF0dL.png",
+"url": "https://goal-th.com/ªèÍ§ÃÒÂ¡ÒÃ·ÕÇÕ/?id=536&tv=AstroPremierLeague2",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"Astro Premier2",
+"image":"https://i.imgur.com/8aaF0dL.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186388&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Astro Football",
+"image":"https://i.imgur.com/dR0DfvN.png",
+"url": "https://goal-th.com/ªèÍ§ÃÒÂ¡ÒÃ·ÕÇÕ/?id=534&tv=AstroFootball",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"Astro Football",
+"image":"https://i.imgur.com/dR0DfvN.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186390&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Sky Sports Football",
+"image":"https://i.imgur.com/lJczzFE.png",
+"url": "https://www.ball24.tv/allchannel/?id=skysportsfootball",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Sky Sports Football",
+"image":"https://i.imgur.com/lJczzFE.png",
+"url": "https://7pal.short.gy/ssportsfb",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Sky Sports Epl",
+"image":"https://i.imgur.com/arDXxug.png",
+"url": "https://7pal.short.gy/ssportspl",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Sky Sports Epl",
+"image":"https://i.imgur.com/arDXxug.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175180&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"Prima Sport1",
+"image": "https://i.imgur.com/bkDFZW5.png",
+"url": "https://dookeela2.live/live-tv/primasport1",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "FWSport",
+"image": "https://i.imgur.com/HMwqcHX.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89782",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "beIN Sports1-A????",
+"image": "https://i.imgur.com/HIcVnMV.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/bein1/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "beIN Sports1-B????",
+"image": "https://i.imgur.com/HIcVnMV.png",
+"url":"https://cdnsv1.bunnycdncloud.com/andaman888th/bein1/th-sport/bein1/chunks.m3u8",
+"referer": "https://www.andaman888th.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports1-C????",
+"image": "https://i.imgur.com/HIcVnMV.png",
+"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-1/playlist.m3u8",
+"referer":"https://doolive4k.tv/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports1-D????",
+"image": "https://i.imgur.com/HIcVnMV.png",
+"url": "https://goal-th.com/ªèÍ§ÃÒÂ¡ÒÃ·ÕÇÕ/?id=44&tv=ºÕÍÔ¹Ê»ÍµÊì1",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports1-E????",
+"image": "https://i.imgur.com/HIcVnMV.png",
+"url": "https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports1-F????",
+"image": "https://i.imgur.com/HIcVnMV.png",
+"url": "https://www.ball24.tv/allchannel/?id=bein1",
+"referer": "https://www.ball24.tv/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports2-A????",
+"image": "https://i.imgur.com/Qz0dlG5.png",
+"url": "https://www.ball24.tv/allchannel/?id=bein2",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports2-B????",
+"image": "https://i.imgur.com/Qz0dlG5.png",
+"url":"https://cdnsv1.bunnycdncloud.com/andaman888th/bein2/th-sport/bein2/chunks.m3u8",
+"referer": "https://www.andaman888th.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports2-C????",
+"image": "https://i.imgur.com/Qz0dlG5.png",
+"url": "https://fw4free.inwstream.com/fw4free/bein2.stream/chunklist.m3u8",
+"referer": "https://fw4free.com/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports3-A????",
+"image": "https://i.imgur.com/YprJFA2.png",
+"url":"https://cdnsv1.bunnycdncloud.com/andaman888th/bein3/th-sport/bein3/chunks.m3u8",
+"referer": "https://www.andaman888th.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports3-B????",
+"image": "https://i.imgur.com/YprJFA2.png",
+"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-3/chunks.m3u8",
+"referer": "https://doolive4k.tv/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports3-C????",
+"image": "https://i.imgur.com/YprJFA2.png",
+"url": "https://www.ball24.tv/allchannel/?id=bein3",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "beIN Sports3-D????",
+"image": "https://i.imgur.com/YprJFA2.png",
+"url": "https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+
+
+{"name":"Sports1-A🇹🇭",
+"image":"https://i.imgur.com/9djKf5y.png",
+"url": "https://dookeela2.live/live-tv/tsp1",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "Sports1-B🇹🇭",
+"image":"https://i.imgur.com/9djKf5y.png",
+"url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-4/chunks.m3u8?",
+"referer": "https://doolive4k.tv/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Sports1-C🇹🇭",
+"image":"https://i.imgur.com/9djKf5y.png",
+"url":"https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "Sports1-D🇹🇭",
+"image":"https://i.imgur.com/9djKf5y.png",
+"url":"https://www.ball24.tv/allchannel/?id=truesporthd",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Sports1-E🇹🇭",
+"image":"https://i.imgur.com/9djKf5y.png",
+"url":"https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd1/playlist.m3u8",
+"referer": "https://www.andaman888th.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Sports1-F🇹🇭",
+"image":"https://i.imgur.com/9djKf5y.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186604&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Sports2-A🇹🇭",
+"image":"https://i.imgur.com/d0P89YT.png",
+"url": "https://dookeela2.live/live-tv/tsp2",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"Sports2-B🇹🇭",
+"image":"https://i.imgur.com/d0P89YT.png",
+"url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-5/chunks.m3u8?",
+"referer": "https://doolive4k.tv/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Sports2-C🇹🇭",
+"image":"https://i.imgur.com/d0P89YT.png",
+"url":"https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd2/playlist.m3u8",
+"referer": "https://www.andaman888th.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Sports2-D🇹🇭",
+"image":"https://i.imgur.com/d0P89YT.png",
+"url":"https://www.ball24.tv/allchannel/?id=truesporthd2",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Sports2-E🇹🇭",
+"image":"https://i.imgur.com/d0P89YT.png",
+"url":"https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Sports2-F🇹🇭",
+"image":"https://i.imgur.com/d0P89YT.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186594&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Sports3-A🇹🇭",
+"image":"https://i.imgur.com/Skd29dj.png",
+"url": "https://dookeela2.live/live-tv/tsp3",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "Sports3-B🇹🇭",
+"image":"https://i.imgur.com/Skd29dj.png",
+"url":"https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/chunks.m3u8?",
+"referer": "https://doolive4k.tv/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Sports3-C🇹🇭",
+"image":"https://i.imgur.com/Skd29dj.png",
+"url":"https://www.ball24.tv/allchannel/?id=truesporthd3",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Sports3-D🇹🇭",
+"image":"https://i.imgur.com/Skd29dj.png",
+"url":"https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Sports3-E🇹🇭",
+"image":"https://i.imgur.com/Skd29dj.png",
+"url":"https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd3/playlist.m3u8",
+"referer": "https://www.andaman888th.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Sports3-F🇹🇭",
+"image":"https://i.imgur.com/Skd29dj.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186602&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Sports4-A🇹🇭",
+"image":"https://i.imgur.com/SodCznt.png",
+"url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/chunks.m3u8",
+"referer": "https://doolive4k.tv/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Sports4-B🇹🇭",
+"image":"https://i.imgur.com/SodCznt.png",
+"url":"https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd4/playlist.m3u8",
+"referer": "https://www.andaman888th.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Sports4-C🇹🇭",
+"image":"https://i.imgur.com/SodCznt.png",
+"url": "https://ball67.com/channels/truesports4",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "Sports4-D🇹🇭",
+"image":"https://i.imgur.com/SodCznt.png",
+"url": "https://dookeela2.live/live-tv/tsp4",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "3BB Sports1",
+"image": "https://i.imgur.com/5BGFX5i.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=419&tv=SportsOne",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "3BB Sports1",
+"image": "https://i.imgur.com/5BGFX5i.png",
+"url":"https://dookeela2.live/live-tv/3bbsports1",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Sky Sport Basket-A🇮🇹",
+"image":"https://cdn.imgchest.com/files/7kzcaw9vqg7.png",
+"url": "http://exm3u.extraott.com:80/ZUL96376/UG4VTW4E/194223",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Sky Sport Basket-B🇮🇹",
+"image":"https://cdn.imgchest.com/files/7kzcaw9vqg7.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=98255&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "NBA TV-A🇺🇸",
+"image": "https://i.imgur.com/mBHsjsJ.png",
+"url":"https://fl5.moveonjoy.com/NBA_TV/index.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "NBA TV-B🇺🇸",
+"image": "https://i.imgur.com/mBHsjsJ.png",
+"url":"http://fortv.cc:8080/PyRR3Hy/DthK0fv/20073",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "NBA TV-C🇺🇸",
+"image": "https://i.imgur.com/mBHsjsJ.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186540&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "NBA TV",
+"image": "https://i.imgur.com/pLnOtrJ.png",
+"url":"https://dookeela.live/live-tv/nba",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "NBA TV",
+"image": "https://i.imgur.com/pLnOtrJ.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=61&tv=NBATV",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "NBA TV",
+"image": "https://i.imgur.com/pLnOtrJ.png",
+"url": "http://49.0.64.96:8007/NBA",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"ESPNU🇺🇸",
+"image":"https://i.imgur.com/pRo2Hxa.png",
+"url":"https://fl5.moveonjoy.com/ESPN_U/index.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"ESPN1-A🇺🇸",
+"image":"https://i.imgur.com/AWdzzQZ.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=133967&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"ESPN1-B🇺🇸",
+"image":"https://i.imgur.com/AWdzzQZ.png",
+"url": "http://fortv.cc:8080/PyRR3Hy/DthK0fv/14197",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"ESPN2-A🇺🇸",
+"image":"https://i.imgur.com/kCFxK0o.png",
+"url": "https://fl5.moveonjoy.com/ESPN_2/index.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"ESPN2-B🇺🇸",
+"image":"https://i.imgur.com/kCFxK0o.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=133964&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "TSN1🇨🇦",
+"image": "https://i.imgur.com/kTSQ5TQ.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=134280&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "TSN2🇨🇦",
+"image": "https://i.imgur.com/HBKPAZc.png",
+"url": "https://fl5.moveonjoy.com/TSN_2/index.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "TSN3🇨🇦",
+"image": "https://i.imgur.com/0oT9q4d.png",
+"url": "https://fl5.moveonjoy.com/TSN_3/index.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "TSN4-A🇨🇦",
+"image": "https://i.imgur.com/vu9vD2u.png",
+"url": "https://fl5.moveonjoy.com/TSN_4/index.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "TSN5🇨🇦",
+"image": "https://i.imgur.com/aY3mX8z.png",
+"url": "https://fl5.moveonjoy.com/TSN_5/index.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Arena Sport1",
+"image": "https://i.imgur.com/ts0YsGe.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=536698&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Arena Sport2",
+"image": "https://i.imgur.com/g7W56S6.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=536699&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Arena Sport3",
+"image": "https://i.imgur.com/6aFNy2b.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=536700&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Arena Sport4",
+"image": "https://i.imgur.com/gGEXfLb.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=536701&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"TNT SportS 1-A🇬🇧",
+"image": "https://i.imgur.com/yWpVmaa.png",
+"url": "https://cdnsv1.bunnycdncloud.com/andaman888th/btsport1/playlist.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"referer": "https://www.andaman888th.net/",
+"playInNatPlayer": "true"},
+
+{"name": "TNT SportS 1-B🇬🇧",
+"image": "https://i.imgur.com/yWpVmaa.png",
+"url": "https://dookeela2.live/live-tv/btsport1",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"PlayInNatPlayer": "true"},
+
+{"name":"TNT SportS 2-A🇬🇧",
+"image": "https://i.imgur.com/RDE3VDw.png",
+"url": "https://cdnsv1.bunnycdncloud.com/andaman888th/btsport2/playlist.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"referer": "https://www.andaman888th.net/",
+"playInNatPlayer": "true"},
+
+{"name":"TNT SportS 2-B🇬🇧",
+"image": "https://i.imgur.com/RDE3VDw.png",
+"url": "https://dookeela2.live/live-tv/btsport2",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "TNT SportS 3-A🇬🇧",
+"image": "https://i.imgur.com/9VK2HPT.png",
+"url": "https://cdnsv1.bunnycdncloud.com/andaman888th/btsport3/playlist.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"referer": "https://www.andaman888th.net/",
+"playInNatPlayer": "true"},
+
+{"name": "TNT SportS 3-B🇬🇧",
+"image": "https://i.imgur.com/9VK2HPT.png",
+"url": "https://dookeela2.live/live-tv/btsport3",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "TNT SportS4-A🇬🇧",
+"image": "https://i.imgur.com/9zSD1Cg.png",
+"url": "https://dookeela2.live/live-tv/btsport4",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "TNT SportS4-B🇬🇧",
+"image": "https://i.imgur.com/9zSD1Cg.png",
+"url":"https://www.ball24.tv/allchannel/?id=tntsports4",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "SPORT TV1🇵🇹",
+"image": "https://i.imgur.com/Zjwyqr1.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/sporttv1/chunks.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "SPORT TV2🇵🇹",
+"image": "https://i.imgur.com/pL6eLgV.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/sporttv2/chunks.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "SPORT TV3🇵🇹",
+"image": "https://i.imgur.com/TeVTCFk.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/sporttv3/chunks.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "SPORT TV4🇵🇹",
+"image": "https://i.imgur.com/rUWFbsR.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/sporttv4/chunks.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "SPORT TV5🇵🇹",
+"image": "https://i.imgur.com/YNdA8vj.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/sporttv5/chunks.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "Fox Sports 1-A🇺🇸",
+"image": "https://i.imgur.com/Q4Oolgn.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/foxsports1usa/chunks.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"referer":"https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "Fox Sports 1-B🇺🇸",
+"image": "https://i.imgur.com/Q4Oolgn.png",
+"url": "https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "Fox Sports 1-C🇺🇸",
+"image": "https://i.imgur.com/Q4Oolgn.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=133975&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Fox Sports 1-D🇺🇸",
+"image": "https://i.imgur.com/Q4Oolgn.png",
+"url": "http://23.237.104.106:8080/USA_FS1/index.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Fox Sports 2-A🇺🇸",
+"image": "https://i.imgur.com/nkU7DBG.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/foxsports2usa/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "Fox Sports 2-B🇺🇸",
+"image": "https://i.imgur.com/nkU7DBG.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=134046&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Fox Sports 2-C🇺🇸",
+"image": "https://i.imgur.com/nkU7DBG.png",
+"url":"http://23.237.104.106:8080/USA_FS2/index.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Astro Grandstand-A🇲🇾",
+"image":"https://i.imgur.com/8rs2TtG.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=535&tv=AstroGrandstand",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"Astro Grandstand-B🇲🇾",
+"image":"https://i.imgur.com/8rs2TtG.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186389&extension=ts",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Astro SportsPlus-A🇲🇾",
+"image":"https://i.imgur.com/x9KbCbJ.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=539&tv=AstroSportsPlus",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"Astro SportsPlus-B🇲🇾",
+"image":"https://i.imgur.com/x9KbCbJ.png",
+"url": "https://dookeela2.live/live-tv/astrosportsplus",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"CBS Sports🇺🇸",
+"image":"https://i.imgur.com/0RQXCJQ.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/cbssports/chunks.m3u8",
+"referer":"https://warpdooball.net/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "BIG Network🇺🇸",
+"image": "https://i.imgur.com/scQstjq.png",
+"url": "https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"ACCN ESPN",
+"image":"https://i.imgur.com/pSFV3Ci.png",
+"url": "https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"Yes Network",
+"image":"https://i.imgur.com/0JFKtFi.png",
+"url": "https://fl4.moveonjoy.com/YES_NETWORK/index.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"Pac12Insider",
+"image":"https://i.imgur.com/ldf74jZ.png",
+"url": "https://pac12-firetv.amagi.tv/playlist.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"Unbeaten Sports",
+"image":"https://i.imgur.com/wVEenIN.png",
+"url":"https://jmp2.uk/sam-US1400008DW.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"SportsTVPlus",
+"image":"https://i.imgur.com/WboL5e7.png",
+"url":"https://www.distro.tv/live/sportstvplus/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "3BB Sports1",
+"image": "https://i.imgur.com/5BGFX5i.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=419&tv=SportsOne",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "3BB Sports1",
+"image": "https://i.imgur.com/5BGFX5i.png",
+"url":"https://dookeela2.live/live-tv/3bbsports1",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Red Bull",
+"image": "https://i.imgur.com/OxyDOgq.png",
+"url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "Extreme",
+"image": "https://i.imgur.com/SW40u5V.png",
+"url":"http://exm3u.extraott.com:80/ZUL96376/UG4VTW4E/401508687",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"Xtrem Sports",
+"image":"https://cdn.imgchest.com/files/yrgcnabv2a4.png",
+"url":"https://streams.sofast.tv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "FuelTV",
+"image": "https://i.imgur.com/EdqUEbZ.png",
+"url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-lggb/playlist.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "AbsintheTV",
+"image": "https://cdn.imgchest.com/files/yd5ceg9jkw4.png",
+"url": "https://streams.sofast.tv/title-absinthetv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/254b2fef-a3dd-4a6d-af18-38711e02e31c/manifest.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "GoProTV",
+"image": "https://cdn.imgchest.com/files/49zc29e6lky.png",
+"url": "https://watch.freelivesports.tv/pages/discover/e/live-tv?channel=67ad38735451dfa36d3d3d1a",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"Nitro Circus",
+"image":"https://i.imgur.com/Bd6IF0Y.png",
+"url":"https://www.cxtvlive.com/live-tv/bike-mag",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"SportOutdoor.tv",
+"image":"https://i.imgur.com/zOFc1eT.png",
+"url":"https://jmp2.uk/sam-ITBA3300022EA.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"People Are Awesome",
+"image":"https://i.imgur.com/VyRxzfw.png",
+"url":"https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"World of Freesports",
+"image":"https://i.imgur.com/aJvqCh9.png",
+"url": "https://watch.freelivesports.tv/pages/discover/e/live-tv?channel=6675bbd47620a64769e3aaa7",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Adventure Zone",
+"image":"https://i.imgur.com/iEeeud5.png",
+"url":"https://adventurezonelive.b-cdn.net/streams/adventure-zone-global/rendition2.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name": "Adventure Sports ",
+"image": "https://i.imgur.com/LMidQaV.png",
+"url": "https://www.distro.tv/live/adventure-sports-tv/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "Teton",
+"image": "https://i.imgur.com/mPRmrUk.png",
+"url": "https://www.distro.tv/live/teton-gravity-research/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "Slopes",
+"image": "https://i.imgur.com/H6m92IT.png",
+"url": "https://www.distro.tv/live/ski-tv/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "UNREEL",
+"image": "https://i.imgur.com/ZvsAAoc.png",
+"url":"https://watch.freelivesports.tv/pages/discover/e/live-tv?channel=6675ba96b9ab4742a8a8ccb5",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "HorizonSports",
+"image": "https://i.imgur.com/xaWfOpO.png",
+"url": "https://www.distro.tv/live/horizon-sports/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name": "Nautical",
+"image": "https://i.imgur.com/qAjJtSr.png",
+"url": "https://streams2.sofast.tv/ptnr-stirr/genre-Sports/lang-English/ctgr-Sport/title-Nautical_TV/vglive-sk-231198/index_4.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer": "true"},
+
+{"name":"Surfer",
+"image":"https://i.imgur.com/NLmPdLG.png",
+"url":"https://www.cxtvlive.com/live-tv/surfer",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+{"name":"Outside TV",
+"image":"https://i.imgur.com/BfmPM8q.png",
+"url":"https://outsidetvplus-distro.amagi.tv/playlist.m3u8",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"},
+
+
+
+
+
+
+{  
+name:"TrueSport 1",
+image:"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/truesport1.jpg",
+"url":"https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+ 
+ {
+"name": "TSP HD1",  
+"image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/truesport1.jpg",  
+"url" :"https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8", 
+"referer": "", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+
+{  
+name:"TrueSport 1",
+image:"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/truesport1.jpg",
+"url": "https://dookeela.live/live-tv/tsp1#",
+"referer": "https://dookeela.live/live-tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+ {  
+name:"TrueSport 2",
+image:"https://dookeela.live/uploads/1664499966.png",
+"url":"https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+
+ {
+"name": "TSP HD2",  
+"image": "https://dookeela.live/uploads/1664499966.png",  
+"url" :"https://dookeela.live/live-tv/tsp2", 
+"referer": "https://dookeela.live/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+
+{  
+name:"TrueSport 2",
+image:"https://dookeela.live/uploads/1664499966.png",
+"url": "https://dookeela.live/live-tv/tsp2#",
+"referer": "https://dookeela.live/live-tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"TrueSport 2",
+image:"https://dookeela.live/uploads/1664499966.png",
+"url":"http://31.220.3.170/play/live.php?mac=00:1A:79:BF:E6:64&stream=115533&extension=ts&play_token",
+"referer": "https://dooball2you.com/",
+"playInNatPlayer": "true"
+},
+ 
+ {  
+name:"TrueSport 3",
+image:"https://dookeela.live/uploads/1664802480.png",
+"url":"https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8",
+"referer": "https://www.madoohd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+ 
+{
+"name": "TSP HD3",  
+"image": "https://dookeela.live/uploads/1664802480.png",  
+"url" :"https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8", 
+"referer": "", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+ 
+{  
+name:"TrueSport 3",
+image:"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/truesport3.jpg",
+"url": "https://dookeela.live/live-tv/tsp3#",
+"referer": "https://dookeela.live/live-tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+ 
+{
+"name": "TSP HD4",  
+"image": "https://rentapi.blackboxsys.net/images/png/hd-tsport4.png",  
+"url" :"https://dookeela.live/live-tv/tsp4", 
+"referer": "https://dookeela.live/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+
+{  
+name:"TrueSport 3 ",
+image:"https://www.dooballfree24hr.com/wp-content/uploads/2022/04/truesport3.jpg",
+"url":"https://edge1.laotv.la/live/TrueSport3/sc-gaFECQ/v1/index.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+ 
+{  
+name:"TrueSport HD4",
+image:"https://rentapi.blackboxsys.net/images/png/hd-tsport4.png",
+"url": "https://dookeela.live/live-tv/tsp4#",
+"referer": "https://dookeela.live/live-tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"TrueSport HD4",
+image:"https://rentapi.blackboxsys.net/images/png/hd-tsport4.png",
+"url":"https://ufa77.tv/channel?ch=truesporthd4",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"TrueSport 5",
+image:"https://dookeela.live/uploads/1664847910.png",
+"url":"https://www.ufa77.fun/channel?ch=truesport5",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{
+"name": "TSP SD5",  
+"image": "https://dookeela.live/uploads/1664847910.png",  
+"url" :"https://dolive.thaim3u.com/xstream/siamsport-11/chunks.m3u8", 
+"referer": "https://dooballfree.com/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+
+{  
+name:"TrueSport 5",
+image:"https://dookeela.live/uploads/1664847910.png",
+"url": "https://dookeela.live/live-tv/tsp5#",  
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"TrueSport 5",
+image:"https://dookeela.live/uploads/1664847910.png",
+"url":"https://live.vip-streaming.com/ufabetcompany-live/true-sport-5/chunks.m3u8",
+"referer": "https://ufabetcompany.net/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{  
+name:"TrueSport 7",
+image:"https://dookeela.live/uploads/1664847921.png",
+"url":"https://www.ufa77.fun/channel?ch=truesport7",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+ {
+"name": "TSP SD7",  
+"image": "https://dookeela.live/uploads/1664847921.png",  
+"url" :"https://dookeela.live/live-tv/tsp7", 
+"referer": "https://dookeela.live/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+
+
+{  
+name:"TrueSport 7",
+image:"https://dookeela.live/uploads/1664847921.png",
+"url": "https://dookeela.live/live-tv/tsp7#",
+"referer": "https://dookeela.live/live-tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"TrueSport 7 ",
+image:"https://dookeela.live/uploads/1664847921.png",
+"url":"https://edge2.laotv.la/live/THD7/sc-gaFECQ/v1/index.m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+ {
+"name": "TSPORTS7",  
+"image": "https://dookeela.live/uploads/1664847921.png",  
+"url" :"https://dookeela.live/live-tv/tsports7", 
+"referer": "https://goal-th.com/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+
+
+{"name": "NBA TV",
+"image": "https://i.imgur.com/HVLoTk3.png",
+"url": "https://webhdrus.onlinehdhls.ru/lb/premium404/index.m3u8",
+"referer": "https://claplivehdplay.ru/",
+"userAgent":"http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"
+},
+ 
+{		
+     "name": "NBA TV",		
+     "image": "https://dookeela.live/uploads/1664532126.png",		
+     "url": "https://dookeela.live/live-tv/nba",		
+     "referer": "https://dookeela.live/",		
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"		
+    },		
+
+ {
+     "name": "NBA TV",
+     "image": "https://dookeela.live/uploads/1664532126.png",
+     "url": "https://dookeela.live/live-tv/nba",
+     "referer": "https://dookeela.live/",
+     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
     },
-    {
-      "name": "MONOMAX6",
-      "url": "https://github.com/tamfan46/MIAdata/raw/refs/heads/main/mono66/Monomax6.m3u8",
-      "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
-      "info": "",
-      "referer": "https://dookeela.live/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
-    },
-    {
-      "name": "MONOMAX7",
-      "url": "https://github.com/tamfan46/MIAdata/raw/refs/heads/main/mono66/Monomax7.m3u8",
-      "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
-      "info": "",
-      "referer": "https://dookeela.live/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
-    },
-    {
-      "name": "MONOMAX8",
-      "url": "https://github.com/tamfan46/MIAdata/raw/refs/heads/main/mono66/Monomax8.m3u8",
-      "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
-      "info": "",
-      "referer": "https://dookeela.live/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
-    },
+ 
+{  
+name:"NBA HD2",
+image:"https://www.img10.xyz/assets/img/ch_logo/hd-nba.png",
+"url":"https://dkl-c33es.cdn.akamaiz.com/dookeela/golfplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI0IDM6MTk6MjIgQU0maGFzaF92YWx1ZT0rY2UxaXdrZ2NpZlNxOG9iVWtUay9RPT0mdmFsaWRtaW51dGVzPTIw",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "SPOTV1",  
+"image": "https://www.img02.xyz/assets/img/ch_logo/hd-spotv1.png",  
+"url" :"https://cdn1.googlecdnforstreaming.live/live/spotv/chunks.m3u8", 
+"referer": "https://warpdooball.net/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+
+
+{  
+name:"SPOTV 2",
+image:"https://rentapi.blackboxsys.net/images/png/hd-spotv2.png",
+"url":"https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"playInNatPlayer": "true"
+},
+
+{
+"name": "BEIN1",  
+"image": "https://dooball2you.com/wp-content/uploads/2023/09/bein1.jpg",  
+"url" :"https://dookeela.live/live-tv/bein1", 
+"referer": "https://dookeela.live/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+
+{
+"name": "BEIN 1",  
+"image": "https://dooball2you.com/wp-content/uploads/2023/09/bein1.jpg",  
+"url" :"https://fw4free.inwstream.com/fw4free/bein1.stream/playlist.m3u8", 
+"referer": "https://fw4free.com/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+
+
+{
+"name": "BEIN2",  
+"image": "https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",  
+"url" :"https://dookeela.live/live-tv/bein2", 
+"referer": "https://dookeela.live/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+
+{
+"name": "BEIN 2",  
+"image": "https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",  
+"url" :"https://fw4free.inwstream.com/fw4free/bein2.stream/playlist.m3u8", 
+"referer": "https://fw4free.com/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+
+{
+"name": "BEIN3",  
+"image": "https://dooball2you.com/wp-content/uploads/2023/09/bein3.jpg",  
+"url" :"https://dookeela.live/live-tv/bein3", 
+"referer": "https://dookeela.live/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+
+{
+"name": "BEIN 3",  
+"image": "https://dooball2you.com/wp-content/uploads/2023/09/bein3.jpg",  
+"url" :"https://fw4free.inwstream.com/fw4free/bein3.stream/playlist.m3u8", 
+"referer": "https://fw4free.com/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+
+
+{
+"name":"WWE",  
+"image": "https://img2.pic.in.th/pic/wwe2.png",  
+"url" :"https://dookeela.live/live-tv/wwe", 
+"referer": "https://goal-th.com/", 
+"info": "", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36", 
+"info": "", "playInNatPlayer":"true" 
+},
+
+{  
+name:"Fw Sport",
+image:"https://drive.google.com/uc?id=1MVaIeIdHgDWRLsOgnliuvHqtxsAoRZhQ",
+"url":"https://www.inwiptv.com/player_demo.php?channel=92941",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"True Tennis",
+image:"https://rentapi.blackboxsys.net/images/png/hd-tennis.png",
+"url":"https://www.ufa77.fun/channel?ch=truetennis",
+"playInNatPlayer": "true"
+},
+
+
+
+{"name": "One Sports🇵🇭",
+"image": "https://img5.pic.in.th/file/secure-sv1/obesports.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=297658&extension=m3u8",
+"playInNatPlayer": "true"
+},
+
+{"name": "One Sports Plus🇵🇭",
+"image": "https://img2.pic.in.th/pic/obesportsplus.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=297659&extension=m3u8",
+"playInNatPlayer": "true"
+},
+
+
+{"name":"DAZN 1-A🇩🇪",
+"image":"https://img2.imgbiz.com/imgbiz/daza1doo.png",
+"url": "https://dookeela.live/live-tv/dazn1",
+"playInNatPlayer":"true"
+},
+
+{"name":"DAZN 1-B🇩🇪",
+"image":"https://img2.imgbiz.com/imgbiz/daza1doo.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/dazn1/playlist.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"
+},
+
+{"name":"DAZN 1-C🇩🇪",
+"image":"https://img2.imgbiz.com/imgbiz/daza1doo.png",
+"url": "https://cdn1.googlecdn.live:443/lsfb/dazn1/chunks.m3u8",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"
+},
+
+{"name":"DAZN 1-D🇩🇪",
+"image":"https://img2.imgbiz.com/imgbiz/daza1doo.png",
+"url": "https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8",
+"userAgent":"http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"
+},
+
+{"name":"DAZN 1-E🇩🇪",
+"image":"https://img2.imgbiz.com/imgbiz/daza1doo.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=374410&extension=ts",
+"playInNatPlayer":"true"
+},
+
+{"name":"DAZN 2-A🇩🇪",
+"image":"https://img2.imgbiz.com/imgbiz/daza2doo.png",
+"url": "https://dookeela.live/live-tv/dazn2",
+"playInNatPlayer":"true"
+},
+
+{"name":"DAZN 2-B🇩🇪",
+"image":"https://img2.imgbiz.com/imgbiz/daza2doo.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/dazn2/playlist.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"
+},
+
+{"name":"DAZN 2-C🇩🇪",
+"image":"https://img2.imgbiz.com/imgbiz/daza2doo.png",
+"url": "https://cdn1.googlecdn.live:443/lsfb/dazn2/chunks.m3u8",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"
+},
+
+{"name":"DAZN 2-D🇩🇪",
+"image":"https://img2.imgbiz.com/imgbiz/daza2doo.png",
+"url": "https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8",
+"userAgent":"http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"
+},
+
+{"name":"DAZN 2-E🇩🇪",
+"image":"https://img2.imgbiz.com/imgbiz/daza2doo.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=374411&extension=ts",
+"playInNatPlayer":"true"
+},
+
+{"name":"Channel 5-A🇬🇧",
+"image":"https://img2.imgbiz.com/imgbiz/Channel_5.png",
+"url": "https://zekonew.newkso.ru/zeko/premium355/mono.m3u8",
+"userAgent":"http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"playInNatPlayer":"true"
+},
+
+{"name":"Channel 5-B🇬🇧",
+"image":"https://img2.imgbiz.com/imgbiz/Channel_5.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175271&extension=ts",
+"playInNatPlayer":"true"
+},
+
+{"name": "SPORT TV1-A🇵🇹",
+"image": "https://img2.imgbiz.com/imgbiz/SPORTTV1.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/sporttv1/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"
+},
+
+{"name": "SPORT TV1-B🇵🇹",
+"image": "https://img2.imgbiz.com/imgbiz/SPORTTV1.png",
+"url": "https://cdn1.googlecdn.live:443/lsfb/sporttv1/chunks.m3u8",
+"referer": "https://dookeela.live/",
+"playInNatPlayer": "true"
+},
+
+{"name": "SPORT TV1-C🇵🇹",
+"image": "https://img2.imgbiz.com/imgbiz/SPORTTV1.png",
+"url": "https://top2new.newkso.ru/top2/eplayerSPORTTV1/mono.m3u8",
+"userAgent":"http-user-agent=http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"referer": "https://daddylive.dad/watch/stream-49.php",
+"playInNatPlayer":"true"
+},
+
+{"name": "SPORT TV1-D🇵🇹",
+"image": "https://img2.imgbiz.com/imgbiz/SPORTTV1.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=78797&extension=ts&play_token=A3Tfx3gZck",
+"playInNatPlayer": "true"
+},
+
+
+{
+"name" : "TNT Sports 1",
+"image" : "https://rentapi.blackboxsys.net/images/png/uk-btsport1hd.png",
+"url" : "https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/chunks.m3u8",
+"referer" : "https://freetvdd.com/",
+"playInNatPlayer" : "true"
+},
+
+{
+"name" : "TNT Sports 2",
+"image" : "https://rentapi.blackboxsys.net/images/png/uk-btsport2hd.png",
+"url" : "https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/chunks.m3u8",
+"referer" : "https://freetvdd.com/",
+"playInNatPlayer" : "true"
+},
+
+{
+"name" : "TNT Sports 3 ",
+"image" : "https://rentapi.blackboxsys.net/images/png/uk-btsport3hd.png",
+"url" : "https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/chunks.m3u8",
+"referer" : "https://freetvdd.com/",
+"playInNatPlayer" : "true"
+},
+
+{
+"name" : "TNT Sports 4",
+"image" : "https://rentapi.blackboxsys.net/images/png/uk-btsport4hd.png",
+"url" : "https://streaming.livescorethai.net/iptv/uk-espn.stream/chunks.m3u8",
+"referer" : "https://freetvdd.com/",
+"playInNatPlayer" : "true"
+},
+
+
+
+
+
+{  
+name:"ESPN ",
+image:"https://freetvdd.com/wp-content/uploads/2019/12/espn.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-espn.stream/chunks.m3u8",
+"referer": "https://freetvdd.com",
+"playInNatPlayer": "true"
+},
+
+ {  
+name:"Sky Sports Action",
+image:"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-action.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-skysports-action.stream/chunks.m3u8",
+"referer": "https://freetvdd.com",
+"playInNatPlayer": "true"
+},
+
+ {  
+name:"Sky Sport F1",
+image:"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-fi.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8",
+"referer": "https://freetvdd.com",
+"playInNatPlayer": "true"
+},
+
+ {  
+name:"Sky Sports Cricket",
+image:"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-cricket.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-skysports-cricket.stream/chunks.m3u8",
+"referer": "https://freetvdd.com",
+"playInNatPlayer": "true"
+},
+
+ {  
+name:"Sky Sport Main Event",
+image:"https://freetvdd.com/wp-content/uploads/2019/12/sky-sports-mainevent.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/chunks.m3u8",
+"referer": "https://freetvdd.com",
+"playInNatPlayer": "true"
+},
+
+ {  
+name:"At The Races",
+image:"https://freetvdd.com/wp-content/uploads/2019/12/at-the-races.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-attheraces.stream/chunks.m3u8",
+"referer": "https://freetvdd.com",
+"playInNatPlayer": "true"
+},
+
+ {  
+name:"FOX Sports 1",
+image:"https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png",
+"url":"https://streaming.livescorethai.net/iptv/us-foxsports1.stream/chunks.m3u8",
+"referer": "https://freetvdd.com",
+"playInNatPlayer": "true"
+},
+
+ {  
+name:"FOX Sports 2",
+image:"https://freetvdd.com/wp-content/uploads/2019/12/fox-sports.png",
+"url":"https://streaming.livescorethai.net/iptv/us-foxsports2.stream/chunks.m3u8",
+"referer": "https://freetvdd.com",
+"playInNatPlayer": "true"
+},
+
+ {  
+name:"EURO SPORT 1",
+image:"https://api.blackboxsys.net/images/png/fr-eurosport.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-eurosport.stream/playlist.m3u8",
+"referer": "https://freetvdd.com",
+"playInNatPlayer": "true"
+},
+
+ {  
+name:"EURO SPORT 2",
+image:"https://api.blackboxsys.net/images/png/fr-eurosport.png",
+"url":"https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/playlist.m3u8",
+"referer": "https://freetvdd.com",
+"playInNatPlayer": "true"
+},
+
+
+{  
+name:"SPOTV 1",
+image:"https://www.img02.xyz/assets/img/ch_logo/hd-spotv1.png",
+"url": "https://dookeela.live/live-tv/spotv#", 
+"referer": "https://dookeela.live/live-tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"SPOTV 1",
+image:"https://www.img02.xyz/assets/img/ch_logo/hd-spotv1.png",
+"url":"https://www.dooballfree24hr.com/live/spotv/",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"SPOTV 2",
+image:"https://rentapi.blackboxsys.net/images/png/hd-spotv2.png",
+"url":"https://www.dooballfree24hr.com/live/spotv-2/",
+"referer": "",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"SPOTV 2",
+image:"https://rentapi.blackboxsys.net/images/png/hd-spotv2.png",
+"url":"https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"playInNatPlayer": "true"
+},
+ 
+
+
+
+{  
+name:"True Tennis",
+image:"https://rentapi.blackboxsys.net/images/png/hd-tennis.png",
+"url":"https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8",
+"referer": "https://www.youdooball.com/",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"True Tennis(สำรอง1)",
+image:"https://rentapi.blackboxsys.net/images/png/hd-tennis.png",
+"url":"https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-tennis&api_key=hmcb4rf66f",
+"referer": "https://dooball66s.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Red Bull TV",
+image:"https://sv1.picz.in.th/images/2022/11/12/vmgRwy.png",
+"url":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+"referer": "https://freetvdd.com/",
+"playInNatPlayer": "true"
+},
+ 
+
+{  
+name:"Golf Channel Thailand ",
+image:"https://www.img07.xyz/assets/img/ch_logo/hd-golf.png",
+"url":"https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8",
+"referer": "https://www.livedoomovies.com:4432/",
+"playInNatPlayer": "true"
+},
+ 
+ 
+{  
+name:"Golf Channel Thailand HD Plus",
+image:"https://dookeela.live/uploads/1664801951.png",
+"url":"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/HLS/V0130.m3u8",
+"referer": "https://www.ufazeed2.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{  
+name:"Golf Channel Thailand HD Plus",
+image:"https://dookeela.live/uploads/1664801951.png",
+"url":"https://m1.ballnaja.com/ais_GOLF_CHANNEL/tracks-v1a1/mono.m3u8",
+"referer": "https://www.ballnaja.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Golf Channel HD Plus",
+image:"https://i.imgur.com/wVenKVZ.png",
+"url":"https://edge-s7.onlineprostream.com:8827/v5/zQ9MAEMrE-brgQDC1wWJGg/1718248234/9ee5362311ff72c8513e646d442863df/rvgA2xA-RSbqZwY9UkT-fA/1718258914/live/vx-origin/hd-golf2_720/playlist.m3u8",
+"referer": "https://redirector.ais-vidnt.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
+ 
+
+{  
+name:"NBC Golf",
+image:"https://freetvdd.com/wp-content/uploads/2019/12/golf.png",
+"url":"https://streaming.livescorethai.net/iptv/hd-golfeng.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw",
+"referer": "https://streaming.livescorethai.net/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+
+
+
+{  
+name:"OneGolf ",
+image:"https://www.1golf.com.au/images/onegolf.gif",
+"url":"http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Sky Sport 24 FHD",
+image:"https://guidatv.sky.it/logo/929skysport24_Light_Padding.png",
+"url":"http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56592&extension=m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Sky Sport 1 FHD",
+image:"https://guidatv.sky.it/logo/920skysportuno_Light_Padding.png",
+"url":"http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56598&extension=m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Sky Sport Tennis FHD",
+image:"https://guidatv.sky.it/logo/559skysporttennishd_Light_Padding.png",
+"url":"http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56607&extension=m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Sky Sport F1 FHD",
+image:"https://guidatv.sky.it/logo/478skysportf1hd_Light_Padding.png",
+"url":"http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56604&extension=m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Sky Sport Moto FHD",
+image:"https://guidatv.sky.it/logo/914skysportmotogp_Light_Padding.png",
+"url":"http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56601&extension=m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Sky Sport Arena FHD",
+image:"https://guidatv.sky.it/logo/921skysportarena_Light_Padding.png",
+"url":"http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=56618&extension=m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
+ 
+{  
+name:"Sky Sport Golf FHD",
+image:"https://guidatv.sky.it/logo/768skysportgolfhd_Light_Padding.png",
+"url":"http://mol-2.com:8080/play/live.php?mac=00:1A:79:bf:76:ea&stream=337099&extension=m3u8",
+"referer": "",
+"playInNatPlayer": "true"
+},
   ]
 },
