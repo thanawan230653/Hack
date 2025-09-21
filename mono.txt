@@ -14,7 +14,7 @@
     },
     {
       "name": "MONOMAX 2",
-      "url": "https://github.com/tamfan46/MIAdata/raw/refs/heads/main/mono66/Monomax2.m3u8,
+      "url": "https://github.com/tamfan46/MIAdata/raw/refs/heads/main/mono66/Monomax2.m3u8",
       "image": "https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png",
       "info": "",
       "referer": "https://football360.info/",
