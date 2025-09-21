@@ -72,12 +72,6 @@
 "image": "https://cdn-icons-png.flaticon.com/512/6245/6245101.png",
 "import": "true"},
 
-{"name": "ขอมา v1",
-"author": "อนันต์-นันยาง2",
-"image": "https://i.redd.it/5rk1scvji7od1.gif",
-"url": "https://drive.google.com/uc?id=1jTpQoNKR5Xyzyw_COv4Ov285RR2oGMh0",
-"import": "true"},
-
 {"name": "ช่อง TV ซัมซุง",
 "author": "555",
 "image": "https://down-th.img.susercontent.com/file/19af1909d26947c2b4724b5725bc5f1c",
