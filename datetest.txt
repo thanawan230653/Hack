@@ -1,6 +1,6 @@
  {
 
-"name": "ช่องกีฬาไทย",
+"name": "อิอิคนทำคนใช้",
 "author": "MIA IPTV ™ ",
 "image": "https://drive.google.com/uc?export=download&id=11oSz3vqscFkW4kU_aQqlINRJdyeA6yco",
  "info": "Copyright by MIA IPTV ™ ",
@@ -10,20 +10,20 @@
 
 
 {
-  "name": "MONOMAX1 ",
-  "image": "https://drive.google.com/uc?export=download&id=17X-Yfsk577ML0CjS88rUDIqaWwOdzzYQ",
-  "url": "https://raw.githubusercontent.com/tamfan46/MIAdata/refs/heads/main/Monomax1.m3u8",
+  "name": "อิอิ5555 ",
+  "image": "",
+  "url": "",
   "referer": "https://github.com/",
-  "info": "MIA IPTV ™",
+  "info": " ™",
   "playInNatPlayer": "true"
 },
 
 
 
 {
-  "name": "MONOMAX1 ",
-  "image": "https://drive.google.com/uc?export=download&id=17X-Yfsk577ML0CjS88rUDIqaWwOdzzYQ",
-  "url": "https://tamfan46.github.io/MIA-IPTV/channels/ch-monomax1.html",
+  "name": "Pawarit linktee ",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5KVr1E3UvaUR8kkQxUdu3YzWMfOSixiSbZg&s",
+  "url": "https://linktr.ee/waewac",
   "referer": "https://github.com/",
    "info": "MIA IPTV ™",
    "embed": "true"
