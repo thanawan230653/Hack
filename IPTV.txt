@@ -93,12 +93,12 @@
 {"name": "รวมหนัง",
 "author":"",
 "url": "https://github.com/waewac/IPTV/raw/refs/heads/main/MergedPlaylist.m3u8.m3u",
-"image": "https://hdmall.co.th/blog/wp-content/uploads/2024/07/what-is-a-mitragynine-leaf.jpg.webp",
+"image": "https://f.ptcdn.info/050/036/000/1443858401-JokeMovie-o.jpg",
 "import": "true"},
 
 {"name": "หนังน้อย",
 "author": "555",
-"image": "https://img.wongnai.com/p/1920x0/2022/02/07/f83df9718cf649e887b8668079e51fae.jpg",
+"image": "https://cf.shopee.co.th/file/9ea4b3bfe9451cd554088b62059e23d2",
 "url": "https://raw.githubusercontent.com/kuroshibin/Movie/master/Movie",
 "import": "true"},
 
