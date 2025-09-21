@@ -26,8 +26,8 @@
 
 {"name": "พ่อค้าสายฟรีห้ามพลาด",
 "author":"",
-"url": "https://github.com/waewac/DATE/raw/refs/heads/main/0nd1ufen6m.w3u",
-"image": "https://github.com/waewac/DATE/raw/refs/heads/main/0nd1ufen6m.w3u",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/free",
+"image": "https://n9.cl/y7ah6",
 "import": "true"},
 
 {"name": "NETFLIX",
