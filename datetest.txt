@@ -28,6 +28,17 @@
    "info": " ™",
    "embed": "true"
   },
+
+
+
+{
+  "name": "test mono 1 ",
+  "image": "https://blog.udemy.com/wp-content/uploads/2014/05/bigstock-test-icon-63758263-300x300.jpg",
+  "url": "https://waewac.github.io/2.html",
+  "referer": "https://github.com/",
+   "info": " ™",
+   "embed": "true"
+  },
     
 
 
