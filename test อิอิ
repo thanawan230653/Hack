@@ -1,34 +1,33 @@
- {
+{
 
-"name": "อิอิคนทำคนใช้",
-"author": "PAT IPTV ™ ",
+"name": "ช่องกีฬาไทย",
+"author": "MIA IPTV ™ ",
 "image": "https://drive.google.com/uc?export=download&id=11oSz3vqscFkW4kU_aQqlINRJdyeA6yco",
  "info": "Copyright by MIA IPTV ™ ",
 "stations": [
 
 
+ {
+    "name": "MONOMAX1",
+    "image": "https://drive.google.com/uc?export=download&id=17X-Yfsk577ML0CjS88rUDIqaWwOdzzYQ",
+    "url": "https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8",
+    "referer": "https://warpdooball.net/",
+    "info": "MIA IPTV ™",
+    "playInNatPlayer": "true"
+  },
+
+
 
 
 {
-  "name": "ตอนนี้ยังไม่มี ",
-  "image": "",
-  "url": "",
+  "name": "MONOMAX1 ",
+  "image": "https://drive.google.com/uc?export=download&id=17X-Yfsk577ML0CjS88rUDIqaWwOdzzYQ",
+  "url": "https://github.com/waewac/DATE/raw/refs/heads/main/max1.m3u8",
   "referer": "https://github.com/",
-  "info": " ™",
+  "info": "MIA IPTV ™",
   "playInNatPlayer": "true"
 },
-
-
-
-{
-  "name": "Pawarit linktee ",
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5KVr1E3UvaUR8kkQxUdu3YzWMfOSixiSbZg&s",
-  "url": "https://linktr.ee/waewac",
-  "referer": "https://github.com/",
-   "info": "MIA IPTV ™",
-   "embed": "true"
-  },
-    
+   
 
 
 	
