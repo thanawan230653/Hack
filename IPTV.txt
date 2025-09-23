@@ -6,7 +6,7 @@
 
 
 
-{"name": "UPDATE",
+{"name": "UPDATE / ปิดปลับปรุงชั่วครามเนื่องจากมีปัญหาทางเทคนิทที่ไม่ทราบสาเหตุ",
 "author":"ปิดปลับปรุงชั่วครามเนื่องจากมีปัญหาทางเทคนิทที่ไม่ทราบสาเหตุ",
 "url": "https://github.com/waewac/IPTV/raw/refs/heads/main/IPTV.txt",
 "image": "https://cdn-icons-png.flaticon.com/512/189/189686.png",
