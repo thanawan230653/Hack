@@ -96,6 +96,36 @@
 "image": "https://notebookspec.com/web/wp-content/uploads/2024/02/%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C%E0%B9%80%E0%B8%A5%E0%B8%AA2024.jpg",
 "import": "true"},
 
+{"name": "อนิเมะ",
+"author":"",
+"url": "https://drive.google.com/uc?id=12fPCO3LiTf_XmVHK_EAldqiBkaEbyKaB",
+"image": "https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-HD-Image.png",
+"import": "true"},
+
+{"name": "dookeela",
+"author": "555",
+"image": "https://dookeela2.live/images/logo.png",
+"url": "https://dl.dropboxusercontent.com/scl/fi/56scn5ymctypm7mo0da9w/dookeela2.txt?rlkey=ntlct1i7jzrc6dciy3mmdhxm3&st=tzrpx08q&dl=0&fbclid=IwY2xjawMbe_VleHRuA2FlbQIxMABicmlkETFSSXB4QlRPckhRcjFKdkRxAR74OzFbdEXm4erL-wnari4md-9WQ_eYe6vBNzeFROIgTVYMDxyYQeXI-D7AtA_aem_N6jNQDA7rtfng23bP-7AWg",
+"import": "true"},
+
+{"name": "Ð∞𝐅𝐫𝐞𝐞",
+"author":"",
+"url": "https://n9.cl/5e7ea",
+"image": "https://dl.dropboxusercontent.com/scl/fi/osdhnlstn5nq0y0vz1xqb/Doo-Free.txt?rlkey=l5vbthacstlhkvpch8h4y0unc&st=3v6a0m6o&dl=0",
+"import": "true"},
+
+{"name": "PinkTV",
+"author":"",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/pink",
+"image": "https://media.istockphoto.com/id/1492909619/photo/3d-render-pink-vintage-television-cartoon-style-isolate-on-white-background-minimal-retro-tv.jpg?s=612x612&w=0&k=20&c=EuEmQobaWLYSWCkcVBSXtSPLGDgxtzjU-kL2L8bvRZ0=",
+"import": "true"},
+
+{"name": "18+ 077",
+"author":"Gojek TV ห้ามขาย!",
+"url": "https://drive.google.com/uc?id=1JpDZ-NpxkQONf9uICD48glRfWyfCK8tF",
+"image": "https://i.postimg.cc/3wQbZ61F/09-Gojek-18.png",
+"import": "true"},
+
 {"name": "ทีวีดาวเทียม-005",
 "author":"Gojek TV ห้ามขาย!",
 "url": "https://drive.google.com/uc?id=1o2yf7wXztDoaU1mKShrQAhZ0R_l41jGP",
