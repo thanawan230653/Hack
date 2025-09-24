@@ -36,6 +36,24 @@
 "image": "https://cdn-icons-png.flaticon.com/512/4221/4221484.png",
 "import": "true"},
 
+{"name": "MONOMAX PLAY 1",
+"author":"",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/test2.m3u8.w3u",
+"image": "https://img.monomax.me/BhWWal7nQtIhzDs_dbhdwzLLKMY=/1440x960/www.monomax.me/assets/monomax/images/default_og_2025.png",
+"import": "true"},
+
+{"name": "MONOMAX PLAY 2",
+"author":"",
+"url": "https://github.com/Asawin65/ASawin/raw/refs/heads/main/test2.m3u8",
+"image": "https://img.monomax.me/BhWWal7nQtIhzDs_dbhdwzLLKMY=/1440x960/www.monomax.me/assets/monomax/images/default_og_2025.png",
+"import": "true"},
+
+{"name": "MONOMAX PLAY 3",
+"author":"",
+"url": "https://github.com/totae00-ux/m3u8/raw/refs/heads/main/Aisplay.m3u",
+"image": "https://img.monomax.me/BhWWal7nQtIhzDs_dbhdwzLLKMY=/1440x960/www.monomax.me/assets/monomax/images/default_og_2025.png",
+"import": "true"},
+
 {"name": "ต่างประเทศ",
 "author":"https://assets.brandinside.asia/uploads/2024/01/Lufthansa-Group-A220s.jpg",
 "url": "https://github.com/waewac/IPTV/raw/refs/heads/main/222.txt.w3u",
