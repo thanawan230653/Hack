@@ -60,6 +60,12 @@
 "image": "https://assets.brandinside.asia/uploads/2024/01/Lufthansa-Group-A220s.jpg",
 "import": "true"},
 
+{"name": "ปัญสุข",
+"author": "555",
+"image": "https://panleebakery.com/wp-content/uploads/2024/10/E%E0%B8%9B%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%96%E0%B8%A7_1.webp",
+"url": "https://freenote.biz/raw/wym3efbiri",
+"import": "true"},
+
 {"name": "อนิเมะ",
 "author":"",
 "url": "https://drive.google.com/uc?id=12fPCO3LiTf_XmVHK_EAldqiBkaEbyKaB",
@@ -106,6 +112,12 @@
 "author": "555",
 "image": "https://dookeela2.live/images/logo.png",
 "url": "https://dl.dropboxusercontent.com/scl/fi/56scn5ymctypm7mo0da9w/dookeela2.txt?rlkey=ntlct1i7jzrc6dciy3mmdhxm3&st=tzrpx08q&dl=0&fbclid=IwY2xjawMbe_VleHRuA2FlbQIxMABicmlkETFSSXB4QlRPckhRcjFKdkRxAR74OzFbdEXm4erL-wnari4md-9WQ_eYe6vBNzeFROIgTVYMDxyYQeXI-D7AtA_aem_N6jNQDA7rtfng23bP-7AWg",
+"import": "true"},
+
+{"name": "ช่อง TV ซัมซุง",
+"author": "555",
+"image": "https://down-th.img.susercontent.com/file/19af1909d26947c2b4724b5725bc5f1c",
+"url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/Link3.txt",
 "import": "true"},
 
 {"name": "Ð∞𝐅𝐫𝐞𝐞",
