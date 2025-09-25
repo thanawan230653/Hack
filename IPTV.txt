@@ -1,5 +1,5 @@
 {"name": "IPTV By PAT",
-"author":"UPDATE 22/9/68 21:09",
+"author":"UPDATE 25/09/68 20:44",
 "image": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/hom.jpg",
 "url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/IPTV.txt",
 "groups": [
