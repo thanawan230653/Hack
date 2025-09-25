@@ -165,7 +165,7 @@
 {"name": "DIGITAL TV เทส",
 "author":"",
 "url": "https://docs.google.com/uc?export=download&id=1I1TxXlen3BMpGD3X58gsxIkbgJtP4nCf",
-"image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",",
+"image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
 "import": "true"},
 
 {"name": "WANN CINEMA  TV",
