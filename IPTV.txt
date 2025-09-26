@@ -1,14 +1,14 @@
 {"name": "IPTV By PAT",
 "author":"UPDATE 25/09/68 20:44",
 "image": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/hom.jpg",
-"url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/IPTV.txt",
+"url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/IPTV.txt?token=GHSAT0AAAAAADLYCWFIK45GGF2S727CIEBK2GWQUGA",
 "groups": [
 
 
 
 {"name": "UPDATE ",
 "author":"ปิดปลับปรุงชั่วครามเนื่องจากมีปัญหาทางเทคนิทที่ไม่ทราบสาเหตุ",
-"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/IPTV.txt",
+"url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/IPTV.txt?token=GHSAT0AAAAAADLYCWFIK45GGF2S727CIEBK2GWQUGA",
 "image": "https://cdn-icons-png.flaticon.com/512/189/189686.png",
 "import": "true"},
 
