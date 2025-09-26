@@ -1,1 +1,201 @@
-ควรไรปล่อยของกูทำเหี้ยไร
+{"name": "IPTV By PAT",
+"author":"UPDATE 25/09/68 20:44",
+"image": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/hom.jpg",
+"url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/IPTV.txt",
+"groups": [
+
+
+
+{"name": "UPDATE ",
+"author":"ปิดปลับปรุงชั่วครามเนื่องจากมีปัญหาทางเทคนิทที่ไม่ทราบสาเหตุ",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/IPTV.txt",
+"image": "https://cdn-icons-png.flaticon.com/512/189/189686.png",
+"import": "true"},
+
+{"name": "ผู้ทำ",
+"author":"",
+"url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/datetest.txt",
+"image": "https://linktr.ee/og/image/waewac.jpg",
+"import": "true"},
+
+{"name": "TEST ก่อนใช้จริง",
+"author":"",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/test%20%E0%B8%AD%E0%B8%B4%E0%B8%AD%E0%B8%B4",
+"image": "https://samitivejchinatown.com/upload/album/album/pic-20232308-1692757626-798-127.png",
+"import": "true"},
+
+{"name": "พ่อค้าสายฟรีห้ามพลาด",
+"author":"",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/free",
+"image": "https://n9.cl/y7ah6",
+"import": "true"},
+
+{"name": "NETFLIX",
+"author":"",
+"url": "https://drive.google.com/uc?id=1I7svUxKND0VvPUkFshVehGNZMJxvuQG9",
+"image": "https://cdn-icons-png.flaticon.com/512/4221/4221484.png",
+"import": "true"},
+
+{"name": "MONOMAX PLAY 1",
+"author":"",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/test2.m3u8.w3u",
+"image": "https://img.monomax.me/BhWWal7nQtIhzDs_dbhdwzLLKMY=/1440x960/www.monomax.me/assets/monomax/images/default_og_2025.png",
+"import": "true"},
+
+{"name": "MONOMAX PLAY 2",
+"author":"",
+"url": "https://github.com/Asawin65/ASawin/raw/refs/heads/main/test2.m3u8",
+"image": "https://img.monomax.me/BhWWal7nQtIhzDs_dbhdwzLLKMY=/1440x960/www.monomax.me/assets/monomax/images/default_og_2025.png",
+"import": "true"},
+
+{"name": "MONOMAX PLAY 3",
+"author":"",
+"url": "https://github.com/totae00-ux/m3u8/raw/refs/heads/main/Aisplay.m3u",
+"image": "https://img.monomax.me/BhWWal7nQtIhzDs_dbhdwzLLKMY=/1440x960/www.monomax.me/assets/monomax/images/default_og_2025.png",
+"import": "true"},
+
+{"name": "ต่างประเทศ",
+"author":"https://assets.brandinside.asia/uploads/2024/01/Lufthansa-Group-A220s.jpg",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/222.txt.w3u",
+"image": "https://assets.brandinside.asia/uploads/2024/01/Lufthansa-Group-A220s.jpg",
+"import": "true"},
+
+{"name": "ปัญสุข",
+"author": "555",
+"image": "https://panleebakery.com/wp-content/uploads/2024/10/E%E0%B8%9B%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%96%E0%B8%A7_1.webp",
+"url": "https://freenote.biz/raw/wym3efbiri",
+"import": "true"},
+
+{"name": "อนิเมะ",
+"author":"",
+"url": "https://drive.google.com/uc?id=12fPCO3LiTf_XmVHK_EAldqiBkaEbyKaB",
+"image": "https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-HD-Image.png",
+"import": "true"},
+
+{"name": "บันเทิง-012",
+"author":"Gojek TV ห้ามขาย!",
+"url": "https://drive.google.com/uc?id=1D9TpZ7SOjhD8pf15adKK6jaapzXHcXE2",
+"image": "https://f.ptcdn.info/837/010/000/1381562269-hqdefault-o.jpg",
+"import": "true"},
+
+{"name": "สารคดี-222",
+"author":"Gojek TV ห้ามขาย!",
+"url": "https://drive.google.com/uc?id=1ygXxfLvz8axi9hb-tn_23CedcDuR-6UR",
+"image": "https://s.isanook.com/ho/0/ud/34/170553/dogbite.jpg?ip/crop/w670h402/q80/jpg",
+"import": "true"},
+
+{"name": "การ์ตูน-007",
+"author":"Gojek TV ห้ามขาย!",
+"url": "https://drive.google.com/uc?id=1eGsTqRLTvLzYxTNA5AzdefHWHdCjocJB",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcU2f04-M_azBa8glPO0rCYszfypoP2wouw&s",
+"import": "true"},
+
+{"name": "หนังออนไลน์-011",
+"author":"Gojek TV ห้ามขาย!",
+"url": "https://drive.google.com/uc?id=1X-uQAHe9DwuC_MUVuB9OvcDxdCBf9LiG",
+"image": "",
+"import": "true"},
+
+{"name": "ซีรี่ออนไลน์-111",
+"author":"Gojek TV ห้ามขาย!",
+"url": "https://drive.google.com/uc?id=1X4C484JPZ9KQ--rsKAG90xUkKXiVVRP0",
+"image": "https://notebookspec.com/web/wp-content/uploads/2024/02/%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C%E0%B9%80%E0%B8%A5%E0%B8%AA2024.jpg",
+"import": "true"},
+
+{"name": "อนิเมะ",
+"author":"",
+"url": "https://drive.google.com/uc?id=12fPCO3LiTf_XmVHK_EAldqiBkaEbyKaB",
+"image": "https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-HD-Image.png",
+"import": "true"},
+
+{"name": "dookeela",
+"author": "555",
+"image": "https://dookeela2.live/images/logo.png",
+"url": "https://dl.dropboxusercontent.com/scl/fi/56scn5ymctypm7mo0da9w/dookeela2.txt?rlkey=ntlct1i7jzrc6dciy3mmdhxm3&st=tzrpx08q&dl=0&fbclid=IwY2xjawMbe_VleHRuA2FlbQIxMABicmlkETFSSXB4QlRPckhRcjFKdkRxAR74OzFbdEXm4erL-wnari4md-9WQ_eYe6vBNzeFROIgTVYMDxyYQeXI-D7AtA_aem_N6jNQDA7rtfng23bP-7AWg",
+"import": "true"},
+
+{"name": "ช่อง TV ซัมซุง",
+"author": "555",
+"image": "https://down-th.img.susercontent.com/file/19af1909d26947c2b4724b5725bc5f1c",
+"url": "https://raw.githubusercontent.com/waewac/IPTV/refs/heads/main/Link3.txt",
+"import": "true"},
+
+{"name": "Ð∞𝐅𝐫𝐞𝐞",
+"author":"",
+"url": "https://n9.cl/5e7ea",
+"image": "https://cdn.imgchest.com/files/4apc5v8la64.gif",
+"import": "true"},
+
+{"name": "PinkTV",
+"author":"",
+"url": "https://github.com/waewac/IPTV/raw/refs/heads/main/pink",
+"image": "https://media.istockphoto.com/id/1492909619/photo/3d-render-pink-vintage-television-cartoon-style-isolate-on-white-background-minimal-retro-tv.jpg?s=612x612&w=0&k=20&c=EuEmQobaWLYSWCkcVBSXtSPLGDgxtzjU-kL2L8bvRZ0=",
+"import": "true"},
+
+{"name": "BALL TV",
+"author":"",
+"url": "https://docs.google.com/uc?export=download&id=1GfCmoZO3MhQDpahopC3CmqEfEvEpyBdk",
+"image": "https://i.ytimg.com/vi/qWuBPHSKdws/hqdefault.jpg",
+"import": "true"},
+
+{"name": "SUN TV",
+"author":"",
+"url": "https://docs.google.com/uc?export=download&id=1FApYLw3-Ph0dqHUKI2H-Ou9Ffp5goTTP",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sun_tv_logo.svg/1200px-Sun_tv_logo.svg.png",
+"import": "true"},
+
+{"name": "18+ 077",
+"author":"Gojek TV ห้ามขาย!",
+"url": "https://drive.google.com/uc?id=1JpDZ-NpxkQONf9uICD48glRfWyfCK8tF",
+"image": "https://i.postimg.cc/3wQbZ61F/09-Gojek-18.png",
+"import": "true"},
+
+{"name": "ทีวีดาวเทียม-005",
+"author":"Gojek TV ห้ามขาย!",
+"url": "https://drive.google.com/uc?id=1o2yf7wXztDoaU1mKShrQAhZ0R_l41jGP",
+"image": "https://image.makewebeasy.net/makeweb/m_1200x600/b92mDEoTf/MelamineWhite/N1028_14.jpg",
+"import": "true"},
+
+{"name": "The TV ลบ 15/10/68",
+"author":"",
+"url": "https://docs.google.com/uc?export=download&id=1vA731ZyD5_Q8RTAyIKhevSMswY1HRdhN",
+"image": "https://image.shutterstock.com/image-photo/image-260nw-577774768.jpg",
+"import": "true"},
+
+{"name": "DIGITAL TV เทส",
+"author":"",
+"url": "https://docs.google.com/uc?export=download&id=1I1TxXlen3BMpGD3X58gsxIkbgJtP4nCf",
+"image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
+"import": "true"},
+
+{"name": "WANN CINEMA  TV",
+"author":"",
+"url": "https://docs.google.com/uc?export=download&id=1cxsY7iHgz2KYXrB906FE1KD8IXrtQ1eV",
+"image": "https://pbs.twimg.com/profile_images/1712324351520120832/uQmtaHt__400x400.jpg",
+"import": "true"},
+
+{"name": "ซีรี่",
+"author":"",
+"url": "https://docs.google.com/uc?export=download&id=1lClhbihyqpo6gkuOPfb2DoNx7MgfZdQ0",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbZMZGNoGw8Ue7kuLf60FgJHD1ZohxALqiXQ&s",
+"import": "true"},
+
+{"name": "DLTV ",
+"author":"",
+"url": "https://drive.google.com/uc?id=1RbUz5N7VOMdCxUfqhmu1xre0DvLzShJ9",
+"image": "https://i.pinimg.com/originals/96/4e/2e/964e2e9255bb26e4949a2db839b070fc.png",
+"import": "true"},
+
+{"name": "หนังสำลองเวลาเบื่อ ",
+"author":"",
+"url": "https://docs.google.com/uc?export=download&id=1MVUE-5zSnTWTp1zvCDGX9dxh9M6LN9Jf",
+"image": "https://image.condonewb.com/media/1660551609016_070722-condonewb-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C-01.webp",
+"import": "true"},
+
+
+]},
+
+
+
+
+
