@@ -1,0 +1,47 @@
+{
+ "name": "Doowiseplayfree V2",
+ "author": "เจียว เจียว ",
+ "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
+ "image": "https://img5.pic.in.th/file/secure-sv1/1000094023.jpg",
+ "groups": [
+ 
+ {"name": "Movie",
+"url": "https://test12-xi-eight.vercel.app/movie-2025.json?token=k1rXmumDUzlc",
+"image": "https://img2.pic.in.th/pic/1000094018.png",
+"import": "true"},
+{
+ "name": "Series",
+ "author": "เจียว เจียว ",
+ "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
+ "image": "https://img5.pic.in.th/file/secure-sv1/1000094019.png",
+ "groups": [
+{"name": "Series ห้องอัพเดท",
+"url": "https://test12-xi-eight.vercel.app/watch-series_part_1.json?token=k1rXmumDUzlc",
+"image": "https://img5.pic.in.th/file/secure-sv1/1000094019.png",
+"import": "true"},
+{"name": "Series เก่า 1",
+"url": "https://test12-xi-eight.vercel.app/watch-series_part_2.json?token=k1rXmumDUzlc",
+"image": "https://img5.pic.in.th/file/secure-sv1/1000094019.png",
+"import": "true"},
+{"name": "Series เก่า 2",
+"url": "https://test12-xi-eight.vercel.app/watch-series_part_3.json?token=k1rXmumDUzlc",
+"image": "https://img5.pic.in.th/file/secure-sv1/1000094019.png",
+"import": "true"},
+{"name": "Series เก่า 3",
+"url": "https://test12-xi-eight.vercel.app/watch-series_part_4.json?token=k1rXmumDUzlc",
+"image": "https://img5.pic.in.th/file/secure-sv1/1000094019.png",
+"import": "true"}
+]},
+{"name": "Digital TV",
+"url": "https://test12-xi-eight.vercel.app/digitaltv.json?token=k1rXmumDUzlc",
+"image": "https://img5.pic.in.th/file/secure-sv1/1000094022.png",
+"import": "true"},
+{"name": "Sports",
+"url": "https://test12-xi-eight.vercel.app/Sport-v1.json?token=k1rXmumDUzlc",
+"image": "https://img2.pic.in.th/pic/1000094021.png",
+"import": "true"},
+{"name": "Animation",
+"url": "https://test12-xi-eight.vercel.app/animation.json?token=k1rXmumDUzlc",
+"image": "https://img5.pic.in.th/file/secure-sv1/1000094020.png",
+"import": "true"}
+]}
